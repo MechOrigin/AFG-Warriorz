@@ -1,0 +1,302 @@
+
+[quest 20000]
+name=Weapon Mastery Training
+marker=wowqt
+started_by=NPC31260
+finished_by=NPC31260
+levels=1 255
+kill=31451 20
+part1=Kill 20 Chickens in 1 min
+qtflags=kill repeatable unique
+reward_xp=25000
+reward_item=42844 1
+reward_gold=250000
+desc=This is basic training for ranged weapon mastery, Go kill some chicken in the limited time to prove you are worthy of being master...
+details=What you waiting for time is started go kill quickly.. Collect the Proof of Weapon Mastery and then return to me, i will give you special rewards.. Tip: Use Gun or Bow to kill Quickly..
+time_minutes=2
+zone=3057
+
+[quest 20002]
+name=Weapon Mastery Special Rewards
+marker=wowqt
+started_by=NPC31260
+finished_by=NPC31260
+levels=1 255
+deliver=42844 250
+part1=Bring 250 Proof of Weapon Mastery 
+qtflags=deliver repeatable unique
+reward_xp=25000
+reward_choice=42848 1
+reward_choice=42849 1
+reward_gold=25000000
+desc=These special rewards are only given to those whose skill increase beyond mastery..
+details=Bring 250 Proof of Weapon Mastery then you will recieve one of your choice reward.
+zone=3057
+
+[quest 20004]
+name=2nd Weapon Mastery Training
+marker=wowqt
+started_by=NPC31261
+finished_by=NPC31261
+levels=1 255
+kill=31263 20
+part1=Kill 20 Hunter Lion
+qtflags=kill repeatable unique
+reward_xp=25000
+reward_item=42844 1
+reward_gold=250000
+desc=Kill 20 Hunter Lion in limited time and you will recieve proof of weapon mastery and then collect it and you will recieve special rewards..
+details=Tip: Use Mele Weapons..
+time_minutes=2
+zone=2960
+
+[quest 20006]
+name=Melee and Range weapon Reward
+marker=wowqt
+started_by=NPC31261
+finished_by=NPC31261
+levels=1 255
+deliver=42844 250
+part1=Bring 250 Proof of Weapon Mastery 
+qtflags=deliver repeatable unique
+reward_xp=25000
+reward_choice=42850 1
+reward_choice=42848 1
+reward_choice=42849 1
+reward_gold=25000000
+desc=These special rewards are only given to those whose skill increase beyond mastery..
+details=Bring 250 Proof of Weapon Mastery then you will recieve one of your choice reward.
+zone=2960
+
+[quest 20008]
+name=Riding Training Mastery
+marker=wowqt
+started_by=NPC31262
+finished_by=NPC31260
+levels=1 255
+qtflags=repeatable talkto unique
+reward_xp=25000
+reward_item=42845 1
+reward_gold=250000
+desc=To be master of Riding, you have to run fast and talk to my brother Riding Master to the South in limited time..
+details=Then you will recieve Proof of Riding Mastery, and then collect certain amount of them, then you will be rewarded with fastest mount ever..
+time_minutes=2
+zone=2960
+
+[quest 20009]
+name=Riding Training Mastery
+marker=wowqt
+started_by=NPC31262
+finished_by=NPC31260
+levels=1 255
+qtflags=repeatable talkto unique
+reward_xp=25000
+reward_item=42845 1
+reward_gold=250000
+desc=To be master of Riding, you have to run fast and meet my brother Badshah Khan in limited time..
+details=Then you will recieve Proof of Riding Mastery, and then collect certain amount of them, then you will be rewarded with fastest mount ever..
+time_minutes=2
+zone=3057
+
+[quest 20010]
+name=Special Mount Reward
+marker=wowqt
+started_by=NPC31262
+finished_by=NPC31262
+levels=1 255
+deliver=25701 250
+part1=Bring 250 Proof of Riding Mastery
+qtflags=deliver repeatable unique
+reward_xp=0
+reward_choice=255004 1
+reward_choice=255011 1
+reward_choice=255016 1
+desc=Bring 250 Proof of Riding Mastery and then you will recieve your choice of mount...
+details=Only The Master of Riding can handle these 200% fastest mounts..So to prove you are worthy then bring the required items..
+zone=2960
+
+[quest 20015]
+name=Need some cleansinig
+marker=wowqt
+started_by=NPC32012
+finished_by=NPC32012
+levels=1 255
+kill=32004 1
+part1=Kill Bloody Elf Master
+qtflags=kill repeatable unique
+reward_gold=10000000
+desc=Hmm Finaly some one dare to enter this area. I hope you are you can use gun or bow. I need someone kill that Cruel Bloody Elf Master..
+details=Bloody Elf have camped somewhere in jungle, and they killing everyone. If you are brave enough to Kill Bloody Elf Master. Tip Bloody Elf Master have high 100k hp, you need 5 other people in team to shot him at once. Good luck..
+zone=2366
+
+[quest 20016]
+name=Kill Lost afgwarriorz
+marker=wowqt
+started_by=NPC32012
+finished_by=NPC32012
+levels=1 255
+kill=32001 25
+part1=Kill Lost AfgWarriorz
+qtflags=kill repeatable unique
+reward_gold=10000000
+desc=The Skeletan's army are on the way, they have send there dangerous warriorz.
+details=Some smart enemy put there name as Afgwarriorz so they can get away, but no they can trick other but not me, Kill All Lost Afgwarriorz before they regroup with there army. They are insane, dont show any mercy.. Tear them apart for the Khanbaba.
+zone=2366
+
+[quest 20017]
+name=Dangerous Jungle King
+marker=wowqt
+started_by=NPC32012
+finished_by=NPC32012
+levels=1 255
+kill=32008 20
+part1=Kill Jungle King
+qtflags=kill repeatable unique
+reward_gold=10000000
+desc=The Skeletan's army are on the way, they have send there dangerous warriorz.
+details=Some smart enemy put there name as Afgwarriorz so they can get away, but no they can trick other but not me, Kill All Lost Afgwarriorz before they regroup with there army. They are insane, dont show any mercy.. Tear them apart for the Khanbaba.
+zone=2366
+
+[quest 20018]
+name=Kill All Horde
+marker=wowqt
+started_by=NPC31459
+finished_by=NPC31459
+levels=100 255
+kill=31462 1
+part1=Kill King Barai
+qtflags=kill repeatable unique
+reward_gold=150000000
+desc=Kill Horde King Barai
+details=Are you brave enough to fight against Horde, if yes then go kill there King, and i will reward you with alot of Gold which you can use buy new special stuff.
+zone=2597
+
+[quest 20019]
+name=Wipe There Kindom Out
+marker=wowqt
+started_by=NPC31462
+finished_by=NPC31462
+levels=100 255
+kill=31459 1
+part1=Kill King Zardish
+qtflags=kill repeatable unique
+reward_gold=150000000
+desc=Kill Alliance King Zardish
+details=Our old enemies are risen again, it's time to wipe them out from face of World. Go kill them all. I will reward you with alot of Gold if you success.
+zone=2597
+
+[quest 20022]
+name=Gift from Khanbaba
+marker=wowqt
+started_by=NPC31325
+finished_by=NPC31325
+levels=1 255
+deliver=35602 5
+part1=Bring 5 Rings of Khanbaba
+qtflags=deliver unique
+reward_xp=25000
+reward_choice=255017 1
+reward_choice=255018 1
+reward_choice=255019 1
+reward_choice=255020 1
+reward_choice=255021 1
+reward_choice=255022 1
+reward_gold=25000000
+desc=Bring me 5 Rings of Khanbaba then i will give you one of the special transformation mounts.
+details=This is Gift from Khanbaba to all, hope you enjoy it.
+zone=3057
+
+[quest 20023]
+name=Gift from Khanbaba for Hunting
+marker=wowqt
+started_by=NPC31325
+finished_by=NPC31325
+levels=1 255
+deliver=803088 5
+part1=Bring 5 Blood of Khanbaba
+qtflags=deliver unique
+reward_xp=25000
+reward_item=25398 1
+reward_gold=25000000
+desc=Bring me 5 Blood of Khanbaba i will give you this special package
+details=YOu can find blood in almost all creatures drop them, also in honor area they dropped too. This pack contain teleport stone to New Challenge area, where you need gun or bow, you shot monster from far. Dont let them come near you, they are very dangerous.  
+zone=3057
+
+[quest 20024]
+name=They Will Pay
+marker=wowqt
+started_by=NPC31459
+finished_by=NPC31459
+levels=100 255
+kill=31461 10
+kill=31460 10
+kill=31453 10
+part1=Kill Horde Guardians
+qtflags=kill repeatable unique
+reward_gold=50000000
+desc=Kill Horde Guardians
+details=Go kill Horde Guardians
+zone=2597
+
+[quest 20025]
+name=Clear the Path to King
+marker=wowqt
+started_by=NPC31462
+finished_by=NPC31462
+levels=100 255
+kill=31454 10
+kill=31457 10
+kill=31458 10
+part1=Kill Alliance Guardian
+qtflags=kill repeatable unique
+reward_gold=50000000
+desc=Kill Alliance Guardians
+details=Kill All alliance guardians
+zone=2597
+
+[quest 20029]
+name=Are you strong?
+marker=wowqt
+started_by=NPC25542
+finished_by=NPC25542
+levels=1 25
+kill=31471 5
+kill=31473 5
+part1=Kill 5 Bone Warrior Xikai
+qtflags=kill
+reward_gold=50000
+desc=Show us how strong u are Kill 5 Bone Warrior Xikai and 5 Cruel Elf.
+details=You know what to do, these creatures took over my land, so wipe them out.
+zone=616
+
+[quest 20030]
+name=Piece of Cake isnt it?
+marker=wowqt
+started_by=NPC25542
+finished_by=NPC25542
+levels=10 60
+kill=31480 5
+kill=31481 5
+kill=31483 5
+part1=Kill Nestra Man
+qtflags=kill unique
+reward_gold=500000
+desc=Let's see if it is really a cake
+details=Recently Alot of evil monster came to our land and they killing everyone, we better stop them, can u go kill them?
+zone=616
+
+[quest 20028]
+name=Time To Prove you are worthy of this weapon
+marker=wowqt
+started_by=NPC25542
+finished_by=NPC25542
+levels=20 100
+kill=420029 7
+kill=31487 7
+kill=31484 7
+part1=Kill Kabul Dragon
+qtflags=kill unique
+reward_item=420029 1
+desc=If you return alive i will give you this reward.
+details=Go far ahead and find those vacious dragons and kill them all and then return to me.
+zone=616

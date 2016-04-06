@@ -1,0 +1,351 @@
+
+/////////////////////////////////////////////
+// AFG loot Templates By Khanbaba & VikinG //
+/////////////////////////////////////////////
+
+//Ayamiss the Hunter
+[loottemplate 15369]
+loot=21478 75.9999 // Bow of Taut Sinew
+loot=21479 75.9999 // Gauntlets of the Immovable
+loot=21466 75.9999 // Stinger of Ayamiss
+loot=21480 75.9999 // Scaled Silithid Gauntlets
+loot=21484 75.9999 // Helm of Regrowth
+loot=21481 75.9999 // Boots of the Desert Protector
+//loot=21482 75.9999
+
+//Buru the Gorger
+[loottemplate 15370]
+loot=21485 75.9999 // Buru's Skull Fragment
+loot=21486 75.9999 // Gloves of the Swarm
+//loot=21487 75.9999
+loot=21490 75.9999 // Slime Kickers
+//loot=21491 75.9999 
+//loot=21489 75.9999
+
+//General Rajaxx
+[loottemplate 15341]
+loot=21493 75.9999 // Boots of the Vanguard
+loot=21492 75.9999 // Manslayer of the Qiraji
+loot=21496 75.9999 // Bracers of Qiraji Command
+loot=21497 75.9999 // Boots of the Qiraji General
+//loot=21494 75.9999
+loot=21495 75.9999 // Legplates of the Qiraji Command
+
+//Kurinnaxx
+[loottemplate 15348]
+loot=21499 75.9999 // Vestments of the Shifting Sand
+loot=21498 75.9999 // Qiraji Sacrificial Dagger
+loot=21502 75.9999 // Sand Reaver Wristguards
+loot=21500 75.9999 // Belt of the Inquisition
+loot=21503 75.9999 // Belt of the Sand Reaver
+loot=21501 75.9999 // Toughened Silithid Hide Gloves
+
+//Moam
+[loottemplate 15340]
+loot=21467 75.9999 // Thick Silithid Chestguard
+//loot=21472 75.9999
+loot=21479 75.9999 // Gauntlets of the Immovable
+//loot=21471 75.9999 
+//loot=21468 75.9999
+//loot=21469 75.9999
+//loot=21474 75.9999
+//loot=21477 75.9999
+//loot=21470 75.9999
+loot=21455 75.9999 // Southwind Helm
+loot=21476 75.9999 // Obsidian Scaled Leggings
+loot=21475 75.9999 // Legplates of the Destroyer
+
+//Ossirian the Unscarred
+[loottemplate 15339]
+loot=21461 75.9999 // Leggings of the Black Blizzard
+loot=21464 75.9999 // Shackles of the Unscarred
+loot=21457 75.9999 // Bracers of Brutality
+loot=21452 75.9999 // Staff of the Ruins
+loot=21460 75.9999 // Helm of Domination 
+loot=21462 75.9999 // Gloves of Dark Wisdom
+loot=21458 75.9999 // Gauntlets of New Life
+loot=21456 75.9999 // Sandstorm Cloak
+loot=21463 75.9999 // Ossirian's Binding
+loot=21459 75.9999 // Crossbow of Imminent Doom
+loot=21715 75.9999 // Sand Polished Hammer
+loot=21454 75.9999 // Runic Stone Shoulders
+loot=21453 75.9999 // Mantle of the Horusath
+
+/////////////////////////////////////////////
+// AFG loot Templates By Khanbaba & VikinG //
+/////////////////////////////////////////////
+//1 10
+
+[loottemplate 50001] //1-10
+loot=5069 10  // Fire Wand
+loot=1405 10  // Foamspittle Staff
+loot=3223 10  // Frostmane Scepter
+loot=1951 10  // Blackwater Cutlass
+loot=4570 10  // Birchwood Maul
+loot=4303 10  // Cranial Thumper
+loot=8180 10  // Hunting Bow
+loot=727 10   // Notched Shortsword
+loot=5744 10  // Pale Skinner
+loot=4564 10  // Spiked Club
+loot=4569 10  // Staunch Hammer
+loot=826 10   // Brutish Riverpaw Axe
+loot=4571 10  // War Knife
+loot=9599 10  // Barkmail Leggings
+loot=7507 10  // Arcane Orb
+loot=2962 25  // Burnt Leather Breeches
+loot=3471 10  // Copper Chain Vest
+loot=2966 10  // Warrior's Pants
+loot=14113 25 // Aboriginal Sash
+loot=4768 10  // Adept's Gloves
+loot=3653 25  // Ceremonial Buckler
+loot=15309 10 // Feral Cloak
+loot=4596 10  // Discolored Healing Potion
+loot=118 30   // Minor Healing Potion
+
+//Epic 50
+
+[loottemplate 50003] //10-20
+loot=2236 10  // Blackfang
+loot=929 25  // LEsser healing
+loot=3194 10  // Black Malice
+loot=5423 10  // Boahn's Fang
+loot=1292 10  // Butcher's Cleaver
+loot=2194 10  // Diamond Hammer
+loot=2205 10  // Duskbringer
+loot=2807 10  // Guillotine Axe
+loot=13136 10 // Lil Timmy's Peashooter
+loot=1318 10  // Night Reaver
+loot=12983 10 // Rakzur Club
+loot=12990 10 // Razor's Edge
+loot=12992 10 // Searing Blade
+loot=6469 10  // Venomstrike
+
+
+[loottemplate 50004] //20-30
+loot=19521 5  // Advisor's Ring
+loot=6906 5  // Algae Fists
+loot=1710 10 // Greater healing
+loot=13005 5  // Amy's Blanket
+loot=7002 5   // Arctic Buckler
+loot=6392 5   // Belt of Arugal
+loot=10399 5  // Blackened Defias Armor
+loot=7133 5   // Brutal Hauberk
+loot=5193 5   // Cape of the Brotherhood
+loot=6460 5   // Cobrahn's Grasp
+loot=6320 5   // Commander's Crest
+loot=12998 5  // Magician's Mantle
+loot=12998 5  // Magician's Mantle
+loot=19566 5  // Advisor's Gnarled Staff
+loot=1454 5   // Axe of the Enforcer
+loot=13024 5  // Beazel's Basher
+loot=2912 5   // Claw of the Shadowmancer
+loot=2877 5   // Combatant Claymore
+loot=3414 5   // Crested Scepter
+loot=2098 5   // Double-barreled Shotgun
+loot=9490 5   // Gizmotron Megachopper
+loot=7786 5   // Headsplitter
+loot=2098 5   // Double-barreled Shotgun
+loot=13048 5  // Looming Gavel
+loot=19554 5  // Protector's Sword
+loot=19542 5  // Scout's Blade
+loot=4454 5   // Talon of Vultros
+loot=8226 5   // The Butcher
+loot=13033 5  // Zealot Blade
+loot=2264 5   // Mantle of Thieves
+loot=6642 5   // Phantom Armor
+loot=19514 5  // Protector's Band
+loot=12997 5  // Redbeard Crest
+loot=6630 5  // Seedcloud Buckler
+loot=13079 5  // Shield of Thorsen
+loot=2870 5   // Shining Silver Breastplate
+loot=12982 5  // Silver-linked Footguards
+loot=16978 5  // Warsong Gauntlets
+loot=16978 5  // Warsong Gauntlets
+loot=13012 5  // Yorgen Bracers
+loot=13131 5  // Sparkleshell Mantle
+loot=16977 5  // Warsong Boots
+loot=13010 5  // Dreamsinger Legguards
+
+[loottemplate 50006] //30-40
+loot=6693 5  // Agamaggan's Clutch
+loot=1488 5   // Avenger's Armor
+loot=3928 10 //Superior Healing
+loot=7759 5  // Archon Chestpiece
+loot=18565 5  // Vessel of Rebirth DEPRECATED
+loot=18948 5  // Barbaric Bracers
+loot=1678 5   // Black Ogre Kickers
+loot=5257 5   // Dark Hooded Cape
+loot=20154 5  // Defiler's Chain Greaves
+loot=20190 5  // Defiler's Leather Girdle
+loot=10710 5  // Dragonclaw Ring
+loot=7690 5   // Ebon Vise
+loot=13129 5  // Firemane Leggings
+loot=7755 5   // Flintrock Shoulders
+loot=13127 5  // Frostreaver Crown
+loot=3844 5   // Green Iron Hauberk
+loot=13145 5  // Enormous Ogre Belt
+loot=868 5    // Ardent Custodian
+loot=869 5    // Dazzling Longsword
+loot=870 5    // Fiery War Axe
+loot=2164 5   // Gut Ripper
+loot=8708 5   // Hammer of Expertise
+loot=1982 5   // Nightblade
+loot=7736 5   // Fight Club
+loot=6331 5   // Howling Blade
+loot=1982 5   // Nightblade
+loot=1982 5   // Nightblade
+
+[loottemplate 50007] //41-50
+loot=19578 5 // Berserker Bracers
+loot=1169 5   // Blackskull Shield
+loot=14549 5  // Boots of Avoidance
+loot=19595 5  // Dryad's Wrist Bindings
+loot=14551 5  // Edgemaster's Handguards
+loot=19587 5  // Forest Stalker's Bracers
+loot=1979 5   // Wall of the Dead
+loot=1447 5   // Ring of Saviors
+loot=3928 10 //Superior Healing
+loot=1981 5   // Icemail Jerkin
+loot=7726 5   // Aegis of the Scarlet Commander
+loot=18712 5  // Arena Vambraces
+loot=9476 5   // Big Bad Pauldrons
+loot=10775 5  // Carapace of Tuten'kash
+loot=13199 5  // Crushridge Bindings
+loot=20167 5  // Defiler's Lizardhide Boots
+loot=20208 5  // Defiler's Plate Greaves
+loot=13125 5  // Elven Chain Boots
+loot=8347 5   // Dragonscale Gauntlets
+loot=18430 5  // First Sergeant's Plate Bracers
+loot=9476 5   // Big Bad Pauldrons
+loot=1718 5   // Basilisk Hide Pants
+loot=17780 5  // Blade of Eternal Darkness
+loot=809 5    // Bloodrazor
+loot=871 5    // Flurry Axe
+loot=812 5    // Glowing Brightwood Staff
+loot=810 5    // Hammer of the Northern Wind
+loot=2824 5   // Hurricane
+loot=2291 5   // Kang the Decapitator
+loot=9372 5   // Sul'thraze the Lasher
+loot=943 5   // Warden Staff
+loot=2163 5   // Shadowblade
+
+[loottemplate 50008] //51+
+loot=19578 5  // Berserker Bracers
+loot=17014 5  // Dark Iron Bracers
+loot=17013 5  // Dark Iron Leggings
+loot=14552 5  // Stockade Pauldrons
+loot=16984 5  // Black Dragonscale Boots
+loot=16950 5  // Breastplate of Ten Storms
+loot=16984 5  // Black Dragonscale Boots
+loot=12895 5  // Breastplate of the Chromatic Flight
+loot=12752 5  // Cap of the Scarlet Savant
+loot=17109 5  // Choker of Enlightenment
+loot=18509 5  // Chromatic Cloak
+loot=3928 10 //Superior Healing
+loot=14554 5  // Cloudkeeper Legplates
+loot=20212 5  // Defiler's Plate Spaulders
+loot=3075 5   // Eye of Flame
+loot=18168 5  // Force Reactive Disk
+loot=19491 5  // Amulet of the Darkmoon
+loot=20212 5  // Defiler's Plate Spaulders
+loot=14555 5  // Alcor's Sunrazor
+loot=18609 5  // Anathema
+loot=19852 5  // Ancient Hakkari Manslayer
+loot=811 5    // Axe of the Deep Woods
+loot=17103 5  // Azuresong Mageblade
+loot=12592 5  // Blackblade of Shahram
+loot=2801 5   // Blade of Hanna
+loot=19130 5  // Cold Snap
+loot=647 5    // Destiny
+loot=19358 5  // Draconic Maul
+loot=10847 5  // Dragon's Call
+loot=944 5    // Elemental Mage Staff
+loot=19884 5  // Jin'do's Judgement
+
+[loottemplate 50012]  //150+
+loot=35600 5   // Chest of Honor
+loot=35602 5   // Ring of Khan
+loot=3928 20 //Superior Healing
+loot=35604 5   // Pathan Chestplate
+//loot=35606 5
+//loot=35608 5
+loot=35610 5   // Waist of Ninja
+loot=35612 5   // Legs of Brazer
+loot=35614 5   // Shoulder of Death Warrior
+loot=35616 5   // Boots of Ghost
+loot=35618 5   // Sulfuras Hammer of Khanbaba
+loot=35620 5   // High Lord Gun
+loot=35622 20  // Special Threaded Bullet
+loot=35624 20  // Thorium Special Arrow
+
+[loottemplate 50014]  //250+
+loot=31002 0.01 // WarriorZ Shoulder Of Destruction
+loot=31003 0.01 // WarriorZ Wrist Of Destruction
+loot=31004 0.01 // WarriorZ Hand Of Destrution
+loot=31005 0.01 // WarriorZ Waist Of Destruction
+loot=31006 0.01 // WarriorZ LegPlates Of Destruction
+loot=31007 0.01 // WarriorZ Boots Of Destruction
+loot=31009 0.01 // WarriorZ Shirt Of Destruction
+loot=31010 0.01 // WarriorZ Tabard Of Destruction
+loot=31011 0.01 // WarriorZ Cloak Of Destruction
+loot=31012 0.01 // WarriorZ Ring Of Destruction
+
+[loottemplate 50016] //AFG Tier 3 Loot
+// Oracle Set Tier 3
+loot=25348 0.01 // AFG Tiara of the Oracle
+loot=25349 0.01 // AFG Footwraps of the Oracle
+loot=25350 0.01 // AFG Mantle of the Oracle
+loot=25351 0.01 // AFG Vestments of the Oracle
+loot=25352 0.01 // AFG Trousers of the Oracle
+// Deathdealer Set Tier 3
+loot=25359 0.01 // AFG Deathdealer's Boots
+loot=25360 0.01 // AFG Deathdealer's Helm
+loot=25361 0.01 // AFG Deathdealer's Spaulders
+loot=25362 0.01 // AFG Deathdealer's Leggings
+loot=25364 0.01 // AFG Deathdealer's Vest
+// Conqueror's Set Tier 3
+loot=25329 0.01 // AFG Conqueror's Crown
+loot=25330 0.01 // AFG Conqueror's Spaulders
+loot=25331 0.01 // AFG Conqueror's Breastplate
+loot=25332 0.01 // AFG Conqueror's Legguards
+loot=25333 0.01 // AFG Conqueror's Greaves
+// Avenger's Set Tier 3
+loot=25388 0.01 // AFG Avenger's Greaves
+loot=25387 0.01 // AFG Avenger's Crown
+loot=25389 0.01 // AFG Avenger's Breastplate
+loot=25390 0.01 // AFG Avenger's Legguards
+loot=25391 0.01 // AFG Avenger's Pauldrons
+// Striker's Set Tier 3
+loot=25365 0.01 // AFG Striker's Footguards
+loot=25366 0.01 // AFG Striker's Diadem
+loot=25367 0.01 // AFG Striker's Pauldrons
+loot=25368 0.01 // AFG Striker's Leggings
+loot=25370 0.01 // AFG Striker's Hauberk
+// Genesis Set Tier 3
+loot=25353 0.01 // AFG Genesis Helm
+loot=25354 0.01 // AFG Genesis Shoulderpads
+loot=25355 0.01 // AFG Genesis Boots
+loot=25356 0.01 // AFG Genesis Trousers
+loot=25357 0.01 // AFG Genesis Vest
+// Enigma Set Tier 3
+loot=25343 0.01 // AFG Enigma Robes
+loot=25344 0.01 // AFG Enigma Boots
+loot=25345 0.01 // AFG Enigma Shoulderpads
+loot=25346 0.01 // AFG Enigma Leggings
+loot=25347 0.01 // AFG Enigma Circlet
+// DoomCaller's Set Tier 3
+loot=25334 0.01 // AFG Doomcaller's Robes
+loot=25335 0.01 // AFG Doomcaller's Mantle
+loot=25336 0.01 // AFG Doomcaller's Trousers
+loot=25337 0.01 // AFG Doomcaller's Circlet
+loot=25338 0.01 // AFG Doomcaller's Footwraps
+// Stormcaller's Set Tier 3
+loot=25372 0.01 // AFG Stormcaller's Diadem
+loot=25373 0.01 // AFG Stormcaller's Footguards
+loot=25374 0.01 // AFG Stormcaller's Hauberk
+loot=25375 0.01 // AFG Stormcaller's Leggings
+loot=25376 0.01 // AFG Stormcaller's Pauldrons
+
+///////////////////////////////////////////
+//AFG Repack V3 Made By Khanbaba & VikinG//
+///////////////////////////////////////////

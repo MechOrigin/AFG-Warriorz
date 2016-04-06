@@ -1,0 +1,441 @@
+
+[gameobj 220000]
+name=Portal to Alliance LVL 50+ Area
+questscript=50
+type=2
+sound1=76
+level=10
+flags=040
+model=4972
+sound2=1
+
+[gameobj 220001]
+name=Portal to Horde LVL 50+ Area
+questscript=500
+type=2
+sound1=76
+level=10
+flags=040
+model=4972
+sound2=1
+
+[gameobj 220002]
+name=Portal to Alliance LVL 100+ Area
+questscript=100
+type=2
+sound1=76
+level=10
+flags=040
+model=4972
+sound2=1
+
+[gameobj 220003]
+name=Portal to Horde LVL 100+ Area
+questscript=1000
+type=2
+sound1=76
+level=10
+flags=040
+model=4972
+sound2=1
+
+[gameobj 220004]
+name=Portal to Alliance LVL 150+ Area
+questscript=150
+type=2
+sound1=76
+level=10
+flags=040
+model=4972
+sound2=1
+
+[gameobj 220005]
+name=Portal to Horde LVL 150+ Area
+questscript=1500
+type=2
+sound1=76
+level=10
+flags=040
+model=4972
+sound2=1
+
+[gameobj 220008]
+name=Portal to Custom Mobs Area
+questscript=valley
+type=2
+sound1=76
+level=10
+flags=040
+model=4972
+sound2=1
+
+[gameobj 220009]
+name=Portal to Horde LVL 200+ Area
+questscript=2000
+type=2
+sound1=76
+level=10
+flags=040
+model=4972
+sound2=1
+
+[gameobj 220010]
+name=Portal to Alliance LVL 200+
+questscript=200
+type=2
+sound1=76
+level=10
+flags=040
+model=4972
+sound2=1
+
+[gameobj 220012]
+name=Portal to Trainers Area
+questscript=trainer
+type=2
+sound1=76
+level=10
+flags=040
+model=4713
+sound2=1
+
+[gameobj 220014]
+name=Portal to LVL 200+ Area
+questscript=200
+type=2
+sound1=76
+level=10
+flags=040
+model=4972
+sound2=1
+
+[gameobj 220016]
+name=Portal to Unknown Area
+questscript=temp2
+type=2
+sound1=76
+level=10
+flags=040
+model=4972
+sound2=1
+
+[gameobj 220018]
+name=Portal to Unknown Area
+questscript=temp2
+type=2
+sound1=76
+level=10
+flags=040
+model=4972
+sound2=1
+
+[gameobj 220020]
+name=Alliance Territory Gain Honor Here PK & KS Allowed Here
+questscript=temp2
+type=2
+sound1=76
+level=10
+flags=040
+model=4972
+sound2=1
+
+[gameobj 220022]
+name=Horde Territory Gain Honor Here PK & KS Allowed Here
+questscript=temp1
+type=2
+sound1=76
+level=10
+flags=040
+model=4972
+sound2=1
+
+[gameobj 220024]
+name=Portal to Artifact Vendor
+questscript=vendor
+type=2
+sound1=76
+level=10
+flags=040
+size=0.200000
+model=4972
+sound2=1
+
+[gameobj 220026]
+name=Portal To PVP Arena
+questscript=AllyPvPStone1
+type=2
+sound1=76
+level=10
+flags=040
+model=4972
+sound2=1
+
+[gameobj 220014]
+name=Portal to Qirraj Challenge Area
+questscript=200
+type=2
+sound1=76
+level=10
+flags=040
+size=1.000000
+model=4972
+sound2=1
+
+[gameobj 220016]
+name=Portal to Mix Level 1-255 Area
+questscript=2000
+type=2
+sound1=76
+level=10
+flags=040
+size=3.000000
+model=4972
+sound2=1
+
+
+//Mashara counterstrike area
+
+[gameobj 250000]
+name=Door
+type=5
+model=4511
+
+[gameobj 250001]
+name=Warning You Are Entering Khanbaba Area one shot ur dead
+type=5
+sound1=1
+sound0=1
+flags=00
+model=695
+
+[gameobj 250002]
+name=Use Tactics to Survive in Jungle
+type=5
+sound1=1
+sound0=1
+flags=00
+model=695
+
+[gameobj 250003]
+name=Watch for Vacious Snakes
+type=5
+sound1=1
+sound0=1
+flags=00
+model=695
+
+[gameobj 250006]
+name=Arena Treasure Chest
+questscript=GArena
+type=3
+sound1=16718
+sound0=1599
+model=259
+flags=00
+faction=94
+sound3=1
+loot=6149 0.80   //   Superior Mana Potion
+loot=3928 0.80   //   Superior Healing Potion
+loo?=8028 0.03   //   Plans: Runed Mithril Hammer
+loot=12691 0.02 //   Plans: Wildthorn Mail
+loot=14501 0.03   //   Pattern: Mooncloth Vest
+loot=14507 0.03   //   Pattern: Mooncloth Shoulders
+loot=18709 5.67   //   Arena Wristguards
+loot=18710 5.44   //   Arena Bracers
+loot=18711 5.86   //   Arena Bands
+loot=18712 5.80   //   Arena Vambraces
+loot=3395 0.03   //   Recipe: Limited Invulnerability Potion
+loot=4500 2.37   //   Traveler's Backpack
+loot=7557 0.13   //   Gossamer Rod
+loot=7909 1.35   //   Aquamarine
+loot=7910 0.92   //   Star Ruby
+loot=7989 0.23   //   Plans: Mithril Spurs
+loot=7990 0.10   //   Plans: Heavy Mithril Helm
+loot=7993 0.07   //   Plans: Dazzling Mithril Rapier
+loot=8106 0.10   //   Hibernal Armor
+loot=8113 0.13   //   Hibernal Robe
+loot=8119 0.16   //   Heraldic Breastplate
+loot=8126 0.40   //   Myrmidon's Breastplate
+loot=8132 0.23   //   Myrmidon's Leggings
+loot=8134 0.03   //   Myrmidon's Defender
+loot=8246 0.26   //   Imperial Red Boots
+loot=8247 0.30   //   Imperial Red Bracers
+loot=8249 0.46   //   Imperial Red Gloves
+loot=8250 0.33   //   Imperial Red Mantle
+loot=8251 0.16   //   Imperial Red Pants
+loot=8253 0.36   //   Imperial Red Sash
+loot=8254 0.16   //   Imperial Red Circlet
+loot=8256 0.23   //   Serpentskin Boots
+loot=8260 0.46   //   Serpentskin Gloves
+loot=8261 0.36   //   Serpentskin Helm
+loot=8262 0.46   //   Serpentskin Leggings
+loot=8263 0.33   //   Serpentskin Spaulders
+loot=8264 0.40   //   Ebonhold Wristguards
+loot=8266 0.13   //   Ebonhold Cloak
+loot=8267 0.33   //   Ebonhold Gauntlets
+loot=8268 0.23   //   Ebonhold Girdle
+loot=8269 0.23   //   Ebonhold Boots
+loot=8270 0.33   //   Ebonhold Helmet
+loot=8272 0.30   //   Ebonhold Shoulderpads
+loot=8274 0.26   //   Valorous Chestguard
+loot=8275 0.10   //   Ebonhold Buckler
+loot=8282 0.03   //   Valorous Shield
+loot=8286 0.33   //   Arcane Cloak
+loot=8297 0.13   //   Traveler's Cloak
+loot=8311 0.13   //   Alabaster Plate Vambraces
+loot=8314 0.40   //   Alabaster Plate Gauntlets
+loot=8315 0.10   //   Alabaster Plate Girdle
+loot=8316 0.13   //   Alabaster Plate Greaves
+loot=8317 0.26   //   Alabaster Plate Helmet
+loot=8319 0.23   //   Alabaster Plate Pauldrons
+loot=8389 0.03   //   Pattern: Big Voodoo Pants
+loot=8390 0.07   //   Pattern: Big Voodoo Cloak
+loot=9295 0.10   //   Recipe: Invisibility Potion
+loot=9298 0.10   //   Recipe: Elixir of Giants
+loot=9943 0.23   //   Abjurer's Robe
+loot=9944 0.43   //   Abjurer's Crystal
+loot=9946 0.07   //   Abjurer's Tunic
+loot=9950 0.46   //   Chieftain's Breastplate
+loot=9954 0.33   //   Chieftain's Leggings
+loot=9958 0.07   //   Warmonger's Buckler
+loot=9974 0.26   //   Overlord's Shield
+loot=10057 0.23   //   Duskwoven Tunic
+loot=10061 0.23   //   Duskwoven Turban
+loot=10062 0.16   //   Duskwoven Gloves
+loot=10063 0.20   //   Duskwoven Amice
+loot=10064 0.36   //   Duskwoven Pants
+loot=10065 0.13   //   Duskwoven Robe
+loot=10068 0.23   //   Righteous Boots
+loot=10070 0.33   //   Righteous Armor
+loot=10072 0.36   //   Righteous Gloves
+loot=10073 0.26   //   Righteous Helmet
+loot=10074 0.43   //   Righteous Leggings
+loot=10075 0.20   //   Righteous Spaulders
+loot=10077 0.33   //   Lord's Breastplate
+loot=10078 0.20   //   Lord's Crest
+loot=10082 0.16   //   Lord's Boots
+loot=10083 0.16   //   Lord's Crown
+loot=10084 0.10   //   Lord's Legguards
+loot=10085 0.30   //   Lord's Pauldrons
+loot=10093 0.40   //   Revenant Deflector
+loot=10096 0.26   //   Councillor's Cuffs
+loot=10098 0.26   //   Councillor's Cloak
+loot=10099 0.33   //   Councillor's Gloves
+loot=10103 0.43   //   Councillor's Sash
+loot=10107 0.33   //   Wanderer's Bracers
+loot=10108 0.36   //   Wanderer's Cloak
+loot=10109 0.43   //   Wanderer's Belt
+loot=10110 0.23   //   Wanderer's Gloves
+loot=10120 0.07   //   Ornate Cloak
+loot=10122 0.40   //   Ornate Girdle
+loot=10126 0.36   //   Ornate Bracers
+loot=10128 0.23   //   Revenant Chestplate
+loot=10132 0.23   //   Revenant Helmet
+loot=10133 0.16   //   Revenant Leggings
+loot=10134 0.26   //  ?Revenant Shoulders
+loot=10165 0.20   //   Templar Gauntlets
+loot=10166 0.43   //   Templar Girdle
+loot=10167 0.10   //   Templar Boots
+loot=10171 0.20   //   Templar Bracers
+loot=10172 0.36   //   Mystical Mantle
+loot=10173 0.33   //   Mystical Bracers
+loot=10174 0.36   //   Mystical Cape
+loot=10175 0.26   //   Mystical Headwrap
+loot=10176 0.26   //   Mystical Gloves
+loot=10179 0.26   //   Mystical Boots
+loot=10180 0.53   //   Mystical Belt
+loot=10183 0.10   //   Swashbuckler's Boots
+loot=10184 0.20   //   Swashbuckler's Bracers
+loot=10185 0.20   //   Swashbuckler's Cape
+loot=10186 0.53   //   Swashbuckler's Gloves
+loot=10187 0.23   //   Swashbuckler's Eyepatch
+loot=10189 0.49   //   Swashbuckler's Shoulderpads
+loot=10190 0.36   //   Swashbuckler's Belt
+loot=10191 0.20   //   Crusader's Armguards
+loot=10192 0.43   //   Crusader's Boots
+loot=10193 0.23   //   Crusader's Armor
+loot=10195 0.13   //   Crusader's Shield
+loot=10196 0.07   //   Crusader's Gauntlets
+loot=10197 0.10   //   Crusader's Belt
+loot=10198 0.49   //   Crusader's Helm
+loot=10199 0.16   //   Crusader's Leggings
+loot=10200 0.23   //   Crusader's Pauldrons
+loot=10203 0.16   //   Overlord's Chestplate
+loot=10204 0.07   //   Heavy Lamellar Shield
+loot=10231 0.33   //   Engraved Cape
+loot=10238 0.13   //   Heavy Lamellar Boots
+loot=10239 0.26   //   Heavy Lamellar Vambraces
+loot=10240 0.26   //   Heavy Lamellar Chestpiece
+loot=10241 0.23   //   Heavy Lamellar Helm
+loot=10242 0.20   //   Heavy Lamellar Gauntlets
+loot=10243 0.16   //   Heavy Lamellar Girdle
+loot=10244 0.26   //   Heavy Lamellar Leggings
+loot=10245 0.46   //   Heavy Lamellar Pauldrons
+loot=10278 0.16   //   Emerald Girdle
+loot=10315 0.13   //   Pattern: Red Mageweave Shoulders
+loot=10320 0.03   //   Pattern: Red Mageweave Headband
+loot=11224 0.03   //   Formula: Enchant Shield - Frost Resistance
+loot=11225 0.07   //   Formula: Enchant Bracer - Greater Stamina
+loot=11976 0.13   //   Sardonyx Knuckle
+loot=11977 0.30   //   Serpentine Loop
+loot=11989 0.07   //   Vanadium Loop
+loot=11990 0.26   //   Selenium Loop
+loot=12002 0.20   //   Marble Circle
+loot=12014 0.40   //   Arctic Ring
+loot=12025 0.36   //   Selenium Chain
+loot=12034 0.13   //   Marble Necklace
+loot=12044 0.20   //   Arctic Pendant
+loot=12055 0.16   //   Stardust Band
+loot=12682 0.20   //   Plans: Thorium Armor
+loot=12683 0.23   //   Plans: Thorium Belt
+loot=12684 0.20   //   Plans: Thorium Bracers
+loot=12689 0.16   //   Plans: Radiant Breastplate
+loot=12692 0.03   //   Plans: Thorium Shield Spike
+loot=12693 0.03   //   Plans: Thorium Boots
+loot=12695 0.07   //   Plans: Radiant Gloves
+loot=12697 0.07   //   Plans: Radiant Boots
+loot=12704 0.20   //   Plans: Thorium Leggings
+loot=13486 0.07   //   Recipe: Transmute Undeath to Water
+loot=13487 0.13   //   Recipe: Transmute Water to Undeath
+loot=13488 0.07   //   Recipe: Transmute Life to Earth
+loot=13489 0.07   //   Recipe: Transmute Earth to Life
+loot=13490 0.07   //   Recipe: Greater Stoneshield Potion
+loot=13492 0.07   //   Recipe: Purification Potion
+loot=14466 0.03   //   Pattern: Frostweave Tunic
+loot=14467 0.16   //   Pattern: Frostweave Robe
+loot=14470 0.10   //   Pattern: Runecloth Tunic
+loot=14474 0.23   //   Pattern: Frostweave Gloves
+loot=14478 0.23   //   Pattern: Brightcloth Robe
+loot=14479 0.40   //   Pattern: Brightcloth Gloves
+loot=14484 0.26   //   Pattern: Brightcloth Cloak
+loot=14489 0.07   //   Pattern: Frostweave Pants
+loot=14492 0.07   //   Pattern: Felcloth Boots
+loot=14494 0.16   //   Pattern: Brightcloth Pants
+loot=14498 0.03   //   Pattern: Runecloth Headband
+loot=15216 0.36   //   Rune Sword
+loot=15217 0.76   //   Widow Blade
+loot=15228 0.40   //   Smashing Star
+loot=15229 0.30   //   Blesswind Hammer
+loot=15236 0.46   //   Moon Cleaver
+loot=15237 0.63   //   Corpse Harvester
+loot=15253 0.46   //   Beheading Blade
+loot=15254 0.23   //   Dark Espadon
+loot=15274 0.59   //   Diviner Long Staff
+loot=15275 0.26   //   Thaumaturgist Staff
+loot=15279 0.43   //   Ivory Wand
+l?ot=15280 0.66   //   Wizard's Hand
+loot=15291 0.49   //   Harpy Needler
+loot=15294 0.86   //   Siege Bow
+loot=15295 0.56   //   Quillfire Bow
+loot=15731 0.16   //   Pattern: Runic Leather Gauntlets
+loot=15737 0.26   //   Pattern: Chimeric Boots
+loot=15745 0.03   //   Pattern: Runic Leather Belt
+loot=15746 0.10   //   Pattern: Chimeric Leggings
+loot=15936 0.03   //   Duskwoven Branch
+loot=15937 0.03   //   Hibernal Sphere
+loot=16043 0.16   //   Schematic: Thorium Rifle
+loot=16051 0.10   //   Schematic: Thorium Shells
+loot=16215 0.16   //   Formula: Enchant Boots - Greater Stamina
+loot=16218 0.10   //   Formula: Enchant Bracer - Superior Spirit
+loot=16220 0.46   //   Formula: Enchant Boots - Spirit
+loot=18706 100.0   //    Arena Master

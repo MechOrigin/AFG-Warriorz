@@ -1,0 +1,7378 @@
+
+////////////////////////////////////////////////////
+// AFG Items // afgitems.scp By Khanbaba & VikiNG //
+////////////////////////////////////////////////////
+
+////////////////////////////////////////////
+// AQ Item's Start At            / 21493  //
+// Epic Skills Starts At         / 799998 //
+// AFG Vendor Items Start At     / 25063  //
+// AFG Artifact Items Start At   / 31002  //
+// AFG Mounts Start At           / 25500  //
+// AFG Special Mounts Start At   / 255000 //
+// AFG Quest Items Start At      / 42844  //
+// AFG Tier 3 Start At           / 25348  //
+// AFG New Scrax Items           / 
+// Jackpot Lottery Items start at 25377   //
+////////////////////////////////////////////
+    
+//AQ Items//
+[item 21493]
+name=Boots of the Vanguard
+inventorytype=8
+class=4
+subclass=2
+description=
+classes=07FF
+races=01FF
+model=29944
+reqlevel=60
+level=66
+durability=300
+stackable=1
+bonding=1
+buyprice=300000
+sellprice=1700000
+material=1
+bonus=3 22
+bonus=4 22
+bonus=7 11
+resistance1=138
+
+[item 21499]
+name=Vestments of the Shifting Sand
+inventorytype=5
+class=4
+subclass=1
+description=
+classes=07FF
+races=01FF
+model=25685
+reqlevel=60
+level=66
+durability=250
+stackable=1
+bonding=1
+buyprice=3
+sellprice=18
+material=1
+bonus=5 14
+bonus=6 8
+bonus=7 20
+resistance1=102
+
+[item 21492]
+name=Manslayer of the Qiraji
+inventorytype=17
+class=2
+subclass=7
+description=
+classes=07FF
+races=01FF
+model=547
+reqlevel=60
+level=66
+delay=3,60
+damage=180 270 0
+durability=500
+stackable=1
+bonding=1
+buyprice=500
+sellprice=200
+material=1
+bonus=3 15
+bonus=4 35
+bonus=7 20
+
+[item 21498]
+name=Qiraji Sacrificial Dagger
+inventorytype=21
+class=2
+subclass=15
+description=
+classes=07FF
+races=01FF
+model=2930
+reqlevel=60
+level=66
+delay=1.90
+damage=64 119 0
+durability=250
+stackable=1
+bonding=1
+buyprice=9
+sellprice=46
+material=1
+bonus=7 15
+
+[item 21496]
+name=Bracers of Qiraji Command
+inventorytype=9
+class=4
+subclass=1
+description=
+classes=07FF
+races=01FF
+model=10179
+reqlevel=60
+level=71
+durability=250
+quality=3
+stackable=1
+bonding=1
+buyprice=500000
+sellprice=200000
+material=1
+bonus=5 13
+bonus=7 12
+resistance1=44
+
+[item 21502]
+name=Sand Reaver Wristguards
+inventorytype=9
+class=4
+subclass=3
+description=
+classes=07FF
+races=01FF
+model=1392
+reqlevel=60
+level=66
+durability=250
+stackable=1
+bonding=1
+buyprice=2
+sellprice=12
+material=1
+bonus=3 16
+bonus=5 7
+bonus=7 11
+resistance1=181
+
+[item 21500]
+name=Belt of the Inquisition
+inventorytype=6
+class=4
+subclass=1
+description=
+classes=07FF
+races=01FF
+model=18577
+reqlevel=60
+level=66
+durability=250
+quality=3
+stackable=1
+bonding=1
+buyprice=1
+sellprice=8
+material=1
+bonus=5 15
+bonus=7 14
+resistance1=56
+
+[item 21497]
+name=Boots of the Qiraji General
+inventorytype=8
+class=4
+subclass=3
+description=
+classes=07FF
+races=01FF
+model=10797
+reqlevel=60
+level=71
+durability=250
+quality=3
+stackable=1
+bonding=1
+buyprice=500000
+sellprice=200000
+material=1
+bonus=3 26
+bonus=7 11
+resistance1=255
+
+[item 21503]
+name=Belt of the Sand Reaver
+inventorytype=6
+class=4
+subclass=4
+description=
+classes=07FF
+races=01FF
+model=18389
+reqlevel=60
+level=66
+durability=250
+quality=3
+stackable=1
+bonding=1
+buyprice=1
+sellprice=8
+material=1
+bonus=4 17
+bonus=7 18
+resistance1=255
+
+[item 21495]
+name=Legplates of the Qiraji Command
+inventorytype=7
+class=4
+subclass=4
+description=
+classes=07FF
+races=01FF
+model=11769
+reqlevel=60
+level=71
+durability=250
+quality=1
+stackable=1
+bonding=1
+buyprice=50000
+sellprice=20000
+material=1
+bonus=4 35
+bonus=7 15
+resistance1=255
+
+[item 21501]
+name=Toughened Silithid Hide Gloves
+inventorytype=10
+class=4
+subclass=2
+description=
+classes=07FF
+races=01FF
+model=19454
+reqlevel=60
+level=66
+durability=250
+quality=3
+stackable=1
+bonding=1
+buyprice=2
+sellprice=10
+material=1
+bonus=3 15
+bonus=4 11
+bonus=7 18
+resistance1=182
+
+[item 21485]
+name=Buru's Skull Fragment
+inventorytype=22
+class=4
+subclass=6
+description=
+classes=07FF
+races=01FF
+model=15419
+reqlevel=60
+level=68
+block=47
+durability=250
+stackable=1
+bonding=1
+buyprice=50000
+sellprice=20000
+material=1
+bonus=4 11
+bonus=7 20
+resistance1=255
+
+[item 21486]
+name=Gloves of the Swarm
+inventorytype=10
+class=4
+subclass=4
+description=
+classes=07FF
+races=01FF
+model=1213
+reqlevel=60
+level=68
+durability=250
+stackable=1
+bonding=1
+buyprice=50000
+sellprice=20000
+material=1
+bonus=3 10
+bonus=4 11
+bonus=5 18
+bonus=7 18
+resistance1=255
+
+[item 21478]
+name=Bow of Taut Sinew
+inventorytype=15
+class=2
+subclass=2
+description=
+classes=07FF
+races=01FF
+model=2461
+reqlevel=60
+level=68
+delay=2.20
+damage=59 111 0
+ammotype=2
+durability=250
+stackable=1
+bonding=1
+buyprice=7
+sellprice=38
+material=1
+resistance6=8
+
+[item 21490]
+name=Slime Kickers
+inventorytype=8
+class=4
+subclass=4
+description=
+classes=07FF
+races=01FF
+model=1213
+reqlevel=60
+level=73
+durability=250
+quality=3
+stackable=1
+bonding=1
+buyprice=50000
+sellprice=20000
+material=1
+bonus=3 12
+bonus=4 18
+bonus=7 12
+resistance1=255
+
+[item 21479]
+name=Gauntlets of the Immovable
+inventorytype=10
+class=4
+subclass=4
+description=
+classes=07FF
+races=01FF
+model=10170
+reqlevel=60
+level=68
+durability=250
+stackable=1
+bonding=1
+buyprice=2
+sellprice=10
+material=1
+bonus=4 15
+bonus=7 18
+resistance1=255
+
+[item 21466]
+name=Stinger of Ayamiss
+inventorytype=21
+class=2
+subclass=4
+description=
+classes=07FF
+races=01FF
+model=1784
+reqlevel=60
+level=68
+delay=2.40
+damage=63 136 0
+durability=250
+stackable=1
+bonding=1
+buyprice=9
+sellprice=49
+material=1
+bonus=5 7
+bonus=7 9
+
+[item 21480]
+name=Scaled Silithid Gauntlets
+inventorytype=10
+class=4
+subclass=3
+description=
+classes=07FF
+races=01FF
+model=12134
+reqlevel=60
+level=68
+durability=250
+quality=3
+stackable=1
+bonding=1
+buyprice=2
+sellprice=14
+material=1
+bonus=3 18
+bonus=5 8
+bonus=6 7
+bonus=7 18
+resistance1=255
+
+[item 21484]
+name=Helm of Regrowth
+inventorytype=1
+class=4
+subclass=2
+description=
+classes=07FF
+races=01FF
+model=13252
+reqlevel=60
+level=68
+durability=250
+quality=3
+stackable=1
+bonding=1
+buyprice=3
+sellprice=16
+material=1
+bonus=5 28
+bonus=6 10
+bonus=7 18
+
+[item 21467]
+name=Thick Silithid Chestguard
+inventorytype=5
+class=4
+subclass=2
+description=
+classes=07FF
+races=01FF
+model=12520
+reqlevel=60
+level=73
+durability=250
+stackable=1
+bonding=1
+buyprice=50000
+sellprice=20000
+material=1
+bonus=3 21
+bonus=4 15
+bonus=7 30
+resistance1=255
+resistance2=5
+resistance3=5
+resistance4=5
+resistance6=5
+resistance7=5
+
+[item 21481]
+name=Boots of the Desert Protector
+inventorytype=8
+class=4
+subclass=4
+description=
+classes=07FF
+races=01FF
+model=14219
+reqlevel=60
+level=68
+durability=250
+quality=3
+stackable=1
+bonding=1
+buyprice=2
+sellprice=13
+material=1
+bonus=4 14
+bonus=5 14
+bonus=7 14
+
+[item 21479]
+name=Gauntlets of the Immovable
+inventorytype=1
+class=4
+subclass=4
+description=
+classes=07FF
+races=01FF
+model=12520
+reqlevel=60
+level=73
+durability=250
+quality=1
+stackable=1
+bonding=1
+buyprice=50000
+sellprice=20000
+material=1
+bonus=4 15
+bonus=7 18
+resistance1=255
+
+[item 21461]
+name=Leggings of the Black Blizzard
+inventorytype=7
+class=4
+subclass=1
+description=
+classes=07FF
+races=01FF
+model=17195
+reqlevel=60
+level=68
+durability=250
+stackable=1
+bonding=1
+buyprice=4
+sellprice=22
+material=1
+bonus=5 16
+bonus=6 8
+bonus=7 14
+resistance1=97
+
+[item 21455]
+name=Southwind Helm
+inventorytype=1
+class=4
+subclass=2
+description=
+classes=07FF
+races=01FF
+model=12520
+reqlevel=60
+level=73
+durability=250
+quality=3
+stackable=1
+bonding=1
+buyprice=50000
+sellprice=20000
+material=1
+bonus=3 24
+bonus=4 21
+bonus=7 14
+resistance1=164
+
+[item 21476]
+name=Obsidian Scaled Leggings
+inventorytype=7
+class=4
+subclass=3
+description=
+classes=07FF
+races=01FF
+model=12520
+reqlevel=60
+level=73
+durability=250
+quality=3
+stackable=1
+bonding=1
+buyprice=50000
+sellprice=20000
+material=1
+bonus=3 10
+bonus=4 16
+bonus=5 18
+bonus=7 18
+resistance1=377
+
+[item 21457]
+name=Bracers of Brutality
+inventorytype=9
+class=4
+subclass=4
+description=
+classes=07FF
+races=01FF
+model=18995
+reqlevel=60
+level=68
+durability=250
+stackable=1
+bonding=1
+buyprice=2
+sellprice=12
+material=1
+bonus=3 12
+bonus=4 21
+bonus=7 9
+resistance1=255
+
+[item 21475]
+name=Legplates of the Destroyer
+inventorytype=7
+class=4
+subclass=4
+description=
+classes=07FF
+races=01FF
+model=10174
+reqlevel=60
+level=73
+durability=250
+quality=1
+stackable=1
+bonding=1
+buyprice=50000
+sellprice=20000
+material=1
+bonus=3 10
+bonus=4 19
+bonus=5 18
+bonus=7 18
+resistance1=670
+
+[item 21452]
+name=Staff of the Ruins
+inventorytype=17
+class=2
+subclass=10
+description=
+classes=07FF
+races=01FF
+model=552
+reqlevel=60
+level=68
+delay=3.40
+damage=151 246 0
+durability=250
+stackable=1
+bonding=1
+buyprice=2
+sellprice=12
+material=1
+bonus=5 23
+bonus=6 14
+bonus=7 24
+
+[item 21464]
+name=Shackles of the Unscarred
+inventorytype=9
+class=4
+subclass=1
+description=
+classes=07FF
+races=01FF
+model=14573
+reqlevel=60
+level=68
+durability=250
+stackable=1
+bonding=1
+buyprice=2
+sellprice=12
+material=1
+bonus=5 12
+bonus=7 9
+resistance1=48
+
+[item 21462]
+name=Gloves of Dark Wisdom
+inventorytype=10
+class=4
+subclass=1
+description=
+classes=07FF
+races=01FF
+model=16518
+reqlevel=60
+level=68
+durability=250
+stackable=1
+bonding=1
+buyprice=2
+sellprice=12
+material=1
+bonus=5 20
+bonus=7 19
+resistance1=69
+
+[item 21460]
+name=Helm of Domination 
+inventorytype=1
+class=4
+subclass=4
+description=
+classes=07FF
+races=01FF
+model=16518
+reqlevel=60
+level=68
+durability=250
+stackable=1
+bonding=1
+buyprice=3
+sellprice=18
+material=1
+bonus=3 11
+bonus=4 21
+bonus=7 28
+resistance1=255
+
+[item 21458]
+name=Gauntlets of New Life
+inventorytype=10
+class=4
+subclass=2
+description=
+classes=07FF
+races=01FF
+model=17194
+reqlevel=60
+level=68
+durability=250
+stackable=1
+bonding=1
+buyprice=3
+sellprice=15
+material=1
+bonus=4 11
+bonus=5 20
+bonus=7 19
+resistance1=134
+
+[item 21463]
+name=Ossirian's Binding
+inventorytype=6
+class=4
+subclass=3
+description=
+classes=07FF
+races=01FF
+model=21213
+reqlevel=60
+level=68
+durability=250
+stackable=1
+bonding=1
+buyprice=3
+sellprice=17
+material=1
+bonus=3 20
+bonus=5 10
+bonus=7 19
+resistance1=255
+
+[item 21456]
+name=Sandstorm Cloak
+inventorytype=16
+class=4
+subclass=1
+description=
+classes=07FF
+races=01FF
+model=19521
+reqlevel=60
+level=68
+durability=250
+stackable=1
+bonding=1
+buyprice=3
+sellprice=18
+material=1
+bonus=4 12
+bonus=7 12
+resistance1=135
+
+[item 21459]
+name=Crossbow of Imminent Doom
+inventorytype=15
+class=4
+subclass=18
+description=
+classes=07FF
+races=01FF
+model=30935
+reqlevel=60
+level=68
+delay=3.10
+damage=103 155 0
+ammotype=2
+durability=250
+stackable=1
+bonding=1
+buyprice=9
+sellprice=46
+material=1
+bonus=3 7
+bonus=4 5
+bonus=7 5
+
+[item 21715]
+name=Sand Polished Hammer
+inventorytype=21
+class=2
+subclass=4
+description=
+classes=07FF
+races=01FF
+model=1783
+reqlevel=60
+level=68
+delay=2.60
+damage=97 181 0
+durability=250
+stackable=1
+bonding=1
+buyprice=12
+sellprice=60
+material=1
+bonus=7 9
+
+[item 21454]
+name=Runic Stone Shoulders
+inventorytype=3
+class=4
+subclass=3
+description=
+classes=07FF
+races=01FF
+model=10777
+reqlevel=60
+level=68
+durability=250
+stackable=1
+bonding=1
+buyprice=5
+sellprice=26
+material=1
+bonus=4 12
+bonus=5 20
+bonus=7 19
+resistance1=255
+
+[item 21453]
+name=Mantle of the Horusath
+inventorytype=3
+class=4
+subclass=4
+description=
+classes=07FF
+races=01FF
+model=10812
+reqlevel=60
+level=68
+durability=250
+stackable=1
+bonding=1
+buyprice=3
+sellprice=17
+material=1
+bonus=4 12
+bonus=5 20
+bonus=7 19
+resistance1=255
+
+//Epic Skills//
+
+
+//Different Class Spell
+
+[item 799998]
+name=Guide how to learn Skill
+description=To learn spell Click on your self and then click on the spell you bought.. Use rank 1 first and then followed by rank 2 so on
+class=15
+reqlevel=1
+quality=5
+buyprice=1000
+sellprice=1000
+classes=07FF
+level=1
+model=1283
+races=01FF
+stackable=1
+material=-1
+flags=64
+
+[item 799999]
+name=Holy Light Rank 1
+class=15
+reqlevel=1
+quality=5
+buyprice=1000
+sellprice=1000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=1872 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800000]
+name=Holy Light Rank 2
+class=15
+reqlevel=5
+quality=5
+buyprice=1500
+sellprice=1500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=1873 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800001]
+name=Holy Light Rank 3
+class=15
+reqlevel=10
+quality=5
+buyprice=3500
+sellprice=1500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=1874 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800002]
+name=Holy Light Rank 4
+class=15
+reqlevel=18
+quality=5
+buyprice=6500
+sellprice=1500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=1913 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800003]
+name=Holy Light Rank 5
+class=15
+reqlevel=26
+quality=5
+buyprice=35000
+sellprice=35000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=1914 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800004]
+name=Holy Light Rank 6
+class=15
+reqlevel=38
+quality=5
+buyprice=55000
+sellprice=55000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=3473 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800005]
+name=Holy Light Rank 7
+class=15
+reqlevel=46
+quality=5
+buyprice=120000
+sellprice=120000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=10330 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800006]
+name=Holy Light Rank 8
+class=15
+reqlevel=56
+quality=5
+buyprice=150000
+sellprice=150000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=10331 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800007]
+name=Redemtion Resurrect Ally
+class=15
+reqlevel=56
+quality=5
+buyprice=1500
+sellprice=1500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=7329 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800008]
+name=Hell Fire Rank 1
+class=15
+reqlevel=30
+quality=5
+buyprice=500000
+sellprice=5500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=5709 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800009]
+name=Hell Fire Rank 2
+class=15
+reqlevel=42
+quality=5
+buyprice=750000
+sellprice=95000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=11685 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800010]
+name=Hell Fire Rank 3
+class=15
+reqlevel=55
+quality=5
+buyprice=1000000
+sellprice=155000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=11686 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800011]
+name=Bear Form
+class=4
+reqlevel=10
+quality=4
+buyprice=11550
+sellprice=11550
+classes=0400
+level=1
+model=1283
+races=01FF
+spell=5488 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800012]
+name=Dire Bear Form
+class=4
+reqlevel=40
+quality=4
+buyprice=11550
+sellprice=11550
+classes=0400
+level=1
+model=1283
+races=01FF
+spell=11594 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800013]
+name=Freeze Trap Rank 1
+class=15
+reqlevel=15
+quality=5
+buyprice=15500
+sellprice=15500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=1552 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800014]
+name=Freeze Trap Rank 2
+class=15
+reqlevel=35
+quality=5
+buyprice=95500
+sellprice=95500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=14368 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800015]
+name=Freeze Trap Rank 3
+class=15
+reqlevel=55
+quality=5
+buyprice=195500
+sellprice=195500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=14370 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800016]
+name=Teaches Gun
+class=15
+reqlevel=5
+quality=5
+buyprice=1955
+sellprice=1955
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=15996 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800017]
+name=Teaches Bow
+class=15
+reqlevel=5
+quality=5
+buyprice=1955
+sellprice=1955
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=15994 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800018]
+name=Recklessness
+class=15
+reqlevel=100
+quality=5
+buyprice=5955000
+sellprice=2955000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=13847 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800019]
+name=Berserker Stance
+class=15
+reqlevel=1
+quality=5
+buyprice=2955
+sellprice=2955
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=2468 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800020]
+name=Battle Stance
+class=15
+reqlevel=1
+quality=5
+buyprice=2955
+sellprice=2955
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=2467 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800021]
+name=Defensive Stance
+class=15
+reqlevel=1
+quality=5
+buyprice=2955
+sellprice=2955
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=1612 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800022]
+name=Abyss Shard
+description=Dark rituals are trapped in dark gems.
+class=4
+inventorytype=12
+quality=3
+bonding=1
+classes=07FF
+flags=1088
+level=52
+material=-1
+model=30690
+races=0FF
+spell=25112 0 0 1800000 0 -1
+stackable=1
+
+[item 800023]
+name=Retaliation
+class=15
+reqlevel=100
+quality=5
+buyprice=5955000
+sellprice=2955000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=22857 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800026]
+name=Teaches Summon Imp
+class=15
+reqlevel=5
+quality=5
+buyprice=95500
+sellprice=95500
+classes=0100
+level=1
+model=1283
+races=01FF
+spell=7763 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800027]
+name=Teaches Summon Succubus
+class=15
+reqlevel=15
+quality=5
+buyprice=195500
+sellprice=95500
+classes=0100
+level=1
+model=1283
+races=01FF
+spell=11519 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800028]
+name=Teaches Summon Felhunter
+class=15
+reqlevel=25
+quality=5
+buyprice=195500
+sellprice=95500
+classes=0100
+level=1
+model=1283
+races=01FF
+spell=1373 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800030]
+name=Teaches Summon Dreadsteed for Warlock
+class=15
+reqlevel=80
+quality=5
+buyprice=20000000
+sellprice=1500000
+classes=0100
+level=1
+model=1283
+races=01FF
+spell=23160 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800032]
+name=Teaches Summon Voidwalker
+class=15
+reqlevel=20
+quality=5
+buyprice=2000
+sellprice=1500
+classes=0100
+level=1
+model=1283
+races=01FF
+spell=11520 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800036]
+name=Teaches Dual Wield
+description=All classes can use it
+class=15
+reqlevel=150
+quality=5
+buyprice=100000
+sellprice=15000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=1424 0 -1 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800038]
+name=Summon Dreadsteed for All Class
+description=All classes can use it
+class=15
+reqlevel=150
+quality=5
+buyprice=50000000
+sellprice=1500000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=23161 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 800039]
+name=Intercept Rank 3
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=001
+level=1
+model=1283
+races=01FF
+spell=20617 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800040]
+name=Execute Rank 5
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=20662 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800041]
+name=Execute Rank
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=5308 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800042]
+name=Shield Wall
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=001
+level=1
+model=1283
+races=01FF
+spell=15062 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800044]
+name=Sweeping Strike A
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=001
+level=1
+model=1283
+races=01FF
+spell=12292 
+stackable=1
+material=-1
+flags=64
+
+[item 800046]
+name=Sweeping Strike B
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=001
+level=1
+model=1283
+races=01FF
+spell=18765 
+stackable=1
+material=-1
+flags=64
+
+[item 800047]
+name=Stance Remover
+description=Use this to Remove stance and at top right corner click on icon to remove stance
+class=15
+reqlevel=1
+quality=3
+bounding=1
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=2460 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800048]
+name=Disarm Target Weapon A
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=001
+level=1
+model=1283
+races=01FF
+spell=13534 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800050]
+name=Disarm Target Weapon B
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=001
+level=1
+model=1283
+races=01FF
+spell=8379 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800052]
+name=Cleave A
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=20691 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800054]
+name=Cleave B
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=001
+level=1
+model=1283
+races=01FF
+spell=20569 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800056]
+name=OverPower A
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=11585 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800058]
+name=OverPower B
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=17198 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800060]
+name=OverPower C
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=24407 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800062]
+name=Hamstring A
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=7373 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800064]
+name=Hamstring B
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26211 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800066]
+name=Charge A
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=20508 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800068]
+name=Charge B
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=11578 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800070]
+name=Charge C
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=25821 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800072]
+name=Charge D
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=24023 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800074]
+name=Execute D
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=20647 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800076]
+name=Execute E
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=5308 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800078]
+name=Charge E
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=7922 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800080]
+name=Charge F
+class=15
+reqlevel=30
+quality=5
+buyprice=50000
+sellprice=29550
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=24193 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800082]
+name=Retaliation
+class=15
+reqlevel=100
+quality=5
+buyprice=50000000
+sellprice=2955000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=22857 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800084]
+name=Recklessness
+class=15
+reqlevel=100
+quality=5
+buyprice=50000000
+sellprice=2955000
+description=All damage done are critical for 15 seconds 
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=13847 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800086]
+name=Shield Wall
+class=15
+reqlevel=30
+quality=5
+buyprice=50000000
+sellprice=295500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=15062 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 803088]
+name=Blood of Khanbaba
+class=0
+reqlevel=50
+quality=6
+buyprice=5000000
+sellprice=5000000
+classes=0000 //All Classes
+level=60
+material=7
+model=1093
+races=0000 //All Races
+spell=26863 0 -1 1000 0 -1
+stackable=5
+
+[item 803089]
+name=Blood of Vlking
+class=0
+reqlevel=50
+quality=6
+buyprice=5000000
+sellprice=5000000
+classes=0000 //All Classes
+level=60
+material=7
+model=1093
+races=0000 //All Races
+spell=26864 0 -1 1000 0 -1
+stackable=5
+
+[item 800090]
+name=Hamstring Z
+class=15
+reqlevel=30
+quality=5
+buyprice=50000000
+sellprice=295500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=9080 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800091]
+name=Charge V
+class=15
+reqlevel=30
+quality=5
+buyprice=50000000
+sellprice=295500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=100 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800092]
+name=Hamstring X
+class=15
+reqlevel=30
+quality=5
+buyprice=50000000
+sellprice=295500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26141 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800094]
+name=Chill Z
+class=15
+reqlevel=30
+quality=5
+buyprice=5000000
+sellprice=295500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=21098 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800096]
+name=Hamstring Y
+class=15
+reqlevel=30
+quality=5
+buyprice=50000000
+sellprice=295500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=22639 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800098]
+name=Hamstring V
+class=15
+reqlevel=30
+quality=5
+buyprice=50000000
+sellprice=295500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=13496 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800100]
+name=Hamstring U
+class=15
+reqlevel=30
+quality=5
+buyprice=50000000
+sellprice=295500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=89 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800102]
+name=Execute Z
+class=15
+reqlevel=30
+quality=5
+buyprice=50000000
+sellprice=295500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=7160 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800104]
+name=BattleStance Z
+class=15
+reqlevel=30
+quality=5
+buyprice=50000000
+sellprice=295500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=7165 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800106]
+name=BattleStance X
+class=15
+reqlevel=30
+quality=5
+buyprice=50000000
+sellprice=295500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=2457 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800108]
+name=Damage Shield
+class=15
+description=When Active you can not use other spells
+reqlevel=150
+quality=6
+buyprice=1000000000
+sellprice=40000000
+level=1
+model=1283
+races=01FF
+spell=25059 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800110]
+name=Special Spell
+class=15
+reqlevel=60
+quality=5
+buyprice=6500
+sellprice=1500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=14248 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800112]
+name=Special Spell X
+class=15
+reqlevel=60
+quality=5
+buyprice=6500
+sellprice=1500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=23272 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+[item 800114]
+name=Special Spell Z
+class=15
+reqlevel=60
+quality=5
+buyprice=6500
+sellprice=1500
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=25799 0 0 -1 0 1
+stackable=1
+material=-1
+flags=64
+
+//AFG vendor Items//
+
+[item 25063]
+name=Bojai Bag
+class=1
+inventorytype=18
+quality=3
+buyprice=60000
+sellprice=40000
+model=20342
+classes=07FFF
+races=01FF
+level=62
+containerslots=20
+bonding=2
+material=8
+stackable=1
+
+[item 35600]
+name=Chest of Honor
+class=4
+subclass=4
+inventorytype=5
+reqlevel=130
+quality=5
+resistance1=3757
+resistance3=60
+resistance6=60
+buyprice=794007
+sellprice=900000
+bonding=1
+classes=07FFF
+durability=565
+level=76
+material=6
+model=29874
+races=01FF
+stackable=1
+bonus=3 250
+bonus=5 300
+bonus=6 300
+bonus=7 300
+bonus=4 300
+
+[item 35602]
+name=Ring of Khanbaba
+description=The lost ring of Khanbaba
+class=4
+inventorytype=11
+reqlevel=125
+quality=6
+resistance1=99
+resistance2=99
+resistance3=99
+resistance4=99
+resistance5=99
+resistance6=99
+resistance7=99
+buyprice=700000
+sellprice=700000
+classes=07FFF
+extra=3297
+level=55
+material=-1
+model=9836
+races=01FF
+bonus=3 999
+bonus=4 999
+bonus=5 999
+bonus=6 999
+bonus=7 999
+spell=13383 1 0 -1 0 -1
+stackable=1
+
+[item 35604]
+name=Pathan Chestplate
+class=4
+subclass=4
+inventorytype=5
+reqlevel=170
+quality=5
+resistance1=4599
+resistance3=99
+resistance6=99
+buyprice=294007
+sellprice=1200000
+bonus=3 470
+bonus=5 470
+bonus=6 470
+bonus=7 470
+bonding=1
+bonus=4 460
+classes=07FFF
+durability=965
+level=56
+material=6
+model=29874
+races=01FF
+stackable=1
+
+[item 35610]
+name=Waist of Ninja
+class=4
+subclass=4
+inventorytype=6
+reqlevel=120
+quality=4
+resistance1=952
+buyprice=500000
+sellprice=600000
+model=30894
+classes=07FFF
+races=01FF
+level=51
+bonding=1
+material=6
+durability=290
+bonus=3 344
+bonus=4 344
+bonus=7 394
+spell=13387 1 0 -1 0 -1
+
+[item 35612]
+name=Legs of Brazer
+class=4
+subclass=4
+inventorytype=7
+reqlevel=120
+quality=5
+resistance1=1549
+resistance3=50
+resistance7=10
+buyprice=598263
+sellprice=600000
+model=25226
+classes=07FFF
+races=01FF
+level=56
+bonding=1
+material=6
+durability=220
+stackable=1
+bonus=7 394
+bonus=4 369
+bonus=6 390
+spell=13670 1 0 -1 0 -1
+spell=18185 1 0 -1 0 -1
+spell=13387 1 0 -1 0 -1
+
+[item 35614]
+name=Shoulder of Death Warrior
+class=4
+subclass=4
+inventorytype=3
+reqlevel=130
+quality=5
+resistance1=1142
+buyprice=622915
+sellprice=700000
+model=31049
+classes=07FFF
+races=01FF
+level=56
+bonding=1
+material=6
+durability=200
+bonus=3 200
+bonus=7 390
+bonus=4 473
+bonus=5 252
+
+[item 35616]
+name=Boots of Ghost
+class=4
+subclass=4
+inventorytype=8
+reqlevel=110
+quality=5
+resistance1=999
+buyprice=664214
+sellprice=700000
+model=30370
+flags=08000
+classes=07FFF
+races=01FF
+level=55
+maxcount=1
+stackable=1
+bonding=1
+material=6
+durability=175
+bonus=7 186
+bonus=4 135
+bonus=3 141
+bonus=6 145
+
+[item 35618]
+name=Sulfuras Hammer of Khanbaba
+class=2
+subclass=5
+inventorytype=17
+reqlevel=150
+quality=5
+delay=1100
+damage=14222 16372 0
+resistance3=60
+buyprice=1663117
+sellprice=2700000
+bonding=1
+classes=07FFF
+durability=545
+level=80
+material=1
+model=29698
+sheath=1
+stackable=1
+maxcount=1
+bonus=4 300
+bonus=7 1999
+bonus=6 250
+spell=21162 2 0 -1 0 -1
+spell=21142 1 0 -1 0 -1
+
+[item 35620]
+name=High Lord Gun
+class=2
+subclass=3
+inventorytype=26
+reqlevel=130
+quality=5
+delay=1000
+damage=5590 9135 0
+buyprice=112353
+sellprice=1700000
+ammotype=3
+bonding=1
+classes=07FFF
+durability=190
+bonus=3 200
+level=68
+material=1
+model=31319
+races=01FF
+stackable=1
+spell=21436 1 0 -1 0 -1
+
+[item 35622]
+name=Special Threaded Bullet
+class=6
+subclass=3
+inventorytype=24
+reqlevel=50
+quality=4
+delay=1000
+damage=116 170 1
+buyprice=100000
+sellprice=7
+model=31813
+classes=07FFF
+races=01FF
+level=54
+bonding=1
+stackable=500
+material=2
+
+[item 35624]
+name=Thorium Special Arrow
+class=6
+subclass=2
+inventorytype=24
+reqlevel=50
+quality=4
+delay=1000
+damage=117 180 0
+buyprice=100000
+sellprice=7
+stackable=500
+model=30433
+classes=07FFF
+races=01FF
+level=57
+material=2
+
+[item 35807]
+name=Xor Gun
+class=2
+subclass=3
+inventorytype=26
+reqlevel=20
+quality=5
+delay=1000
+damage=90 155 0
+buyprice=51235
+sellprice=22470
+ammotype=3
+bonding=2
+classes=07FFF
+durability=190
+bonus=1 99
+bonus=7 12
+level=8
+material=1
+model=31319
+races=01FF
+stackable=1
+spell=21436 1 0 -1 0 -1
+
+[item 420032]
+name=Special Hearthstone
+description=With 30 Seconds Cool Down
+class=15
+quality=4
+buyprice=100000
+bonding=1
+classes=07FF
+flags=64
+level=1
+material=-1
+maxcount=1
+model=6418
+races=0FF
+spell=8690 0 0 0 330 3000
+stackable=1
+
+[item 420030]
+name=Mighty Fury of Lost Hero
+class=2
+subclass=7
+inventorytype=21
+reqlevel=100
+quality=5
+delay=1500
+damage=1414 2215 0
+damage=96 130 3
+resistance3=25
+resistance4=29
+buyprice=10000000
+sellprice=9000000
+bonding=1
+bonus=3 65
+bonus=7 90
+classes=07FF
+durability=225
+level=80
+material=1
+maxcount=1
+model=30606
+races=0FF
+sheath=1
+spell=21992 2 0 -1 0 -1
+spell=21162 2 0 -1 0 -1
+spell=21142 1 0 -1 0 -1
+stackable=1
+
+[item 420028]
+name=AFG Blade of Fire
+class=2
+subclass=7
+inventorytype=21
+reqlevel=50
+quality=5
+delay=1500
+damage=420 658 0
+buyprice=2500000
+sellprice=2000000
+stackable=1
+model=19997
+classes=07FFF
+races=01FF
+level=46
+language=1
+material=1
+sheath=3
+bonus=7 35
+bonus=4 45
+bonus=3 45
+bonus=5 55
+bonus=6 45
+durability=250
+
+[item 420029]
+name=AFG Fire Blade
+class=2
+subclass=7
+inventorytype=21
+reqlevel=30
+quality=4
+delay=1400
+damage=320 458 0
+buyprice=2500000
+sellprice=500000
+stackable=1
+model=19997
+classes=07FFF
+races=01FF
+level=46
+language=1
+material=1
+sheath=3
+bonus=7 25
+bonus=4 25
+durability=250
+
+//General Markston
+
+[item 40005]
+name=Dagger of Stamina
+class=2
+subclass=15
+inventorytype=13
+reqlevel=50
+quality=5
+delay=1000
+damage=1000 1000 0
+buyprice=20000000
+sellprice=15000000
+stackable=1
+model=20598
+classes=07FFF
+races=01FF
+level=19
+bonding=0
+material=1
+sheath=3
+durability=40
+bonus=7 500
+
+[item 40006]
+name=Dagger of Agility
+class=2
+subclass=15
+inventorytype=13
+reqlevel=50
+quality=5
+delay=1000
+damage=1000 1000 0
+buyprice=20000000
+sellprice=15000000
+stackable=1
+model=20598
+classes=07FFF
+races=01FF
+level=19
+bonding=0
+material=1
+sheath=3
+durability=40
+bonus=3 500
+
+[item 40007]
+name=Ruler of Heaven
+description=Cannot be destroyed
+class=2
+subclass=10
+inventorytype=17
+reqlevel=75
+quality=5
+delay=1000
+damage=1000 1000 0
+buyprice=25000000
+sellprice=19000000
+maxcount=1
+stackable=1
+model=29703
+classes=07FFF
+races=01FF
+level=31
+bonding=2
+material=2
+sheath=2
+durability=100
+bonus=5 500
+bonus=7 300
+
+[item 40008]
+name=Shadow of Darkness
+description=Wellknown for Honor
+class=2
+subclass=15
+inventorytype=13
+reqlevel=75
+quality=5
+delay=1000
+damage=7000 7000 0
+buyprice=140000000
+sellprice=100000000
+bonding=1
+classes=07FF
+durability=220
+level=60
+bonus=7 1000
+material=1
+model=32604
+races=0FF
+sheath=1
+spell=15829 1 0 -1 0 -1
+spell=20479 2 0 -1 0 -1
+stackable=1
+
+[item 40009]
+name=Vezer of Death
+description=Destroyer of All
+class=2
+subclass=7
+inventorytype=13
+reqlevel=75
+quality=5
+delay=1500
+damage=2000 3000 0
+buyprice=55000000
+sellprice=39000000
+bonding=1
+bonus=4 500
+bonus=7 500
+bonus=3 230
+classes=07FF
+durability=225
+level=40
+material=1
+maxcount=1
+model=30606
+races=0FF
+sheath=1
+stackable=1
+
+[item 40010]
+name=Vezer of Dead Special
+description=Xtreme
+class=2
+subclass=7
+inventorytype=13
+reqlevel=75
+quality=5
+delay=1000
+damage=8000 8000 0
+buyprice=155000000
+sellprice=119000000
+bonding=2
+bonus=4 1000
+bonus=7 1000
+classes=07FF
+durability=225
+level=40
+material=1
+maxcount=1
+model=30606
+races=0FF
+sheath=1
+stackable=1
+
+[item 40011]
+name=Dagger of Shadow
+description=Soul Taker Dagger
+class=2
+subclass=15
+inventorytype=13
+reqlevel=75
+quality=5
+delay=1000
+damage=9000 9000 0
+resistance3=25
+resistance4=29
+buyprice=150000000
+sellprice=119000000
+bonus=7 1000
+model=31606
+flags=08000
+classes=07FFF
+races=01FF
+level=65
+maxcount=1
+stackable=1
+bonding=2
+material=1
+sheath=3
+durability=165
+
+[item 40012]
+name=Blade of Shaitan
+description=Vision killer
+class=2
+subclass=7
+inventorytype=13
+reqlevel=75
+quality=5
+delay=1000
+damage=8000 8000 0
+buyprice=160000000
+sellprice=129000000
+stackable=1
+model=19997
+classes=07FFF
+races=01FF
+level=2
+language=1
+material=1
+sheath=3
+bonus=7 1000
+bonus=3 200
+durability=250
+bonding=2
+
+[item 40013]
+name=Killer of All
+class=2
+subclass=7
+inventorytype=21
+reqlevel=75
+quality=5
+delay=1000
+damage=3000 3000 0
+buyprice=35000000
+sellprice=25000000
+bonding=2
+bonus=7 200
+classes=07FF
+durability=225
+level=80
+material=1
+maxcount=1
+model=30606
+races=0FF
+sheath=1
+stackable=1
+
+[item 40014]
+name=Xtreme Blade
+description=Young Blade
+class=2
+subclass=7
+inventorytype=21
+reqlevel=60
+quality=5
+delay=1000
+damage=6000 6000 0
+buyprice=105000000
+sellprice=85000000
+model=30994
+classes=07FF
+races=01FF
+level=71
+maxcount=1
+stackable=1
+bonding=2
+material=1
+sheath=3
+durability=305
+bonus=7 1000
+spell=22850 2 0 -1 0 -1
+
+[item 40015]
+name=DemonHunter Razor blade
+description=The High Blade of Razor
+class=2
+subclass=7
+inventorytype=21
+reqlevel=60
+quality=5
+delay=1000
+damage=9999 9999 0
+buyprice=165000000
+sellprice=125000000
+model=30994
+classes=07FF
+races=01FF
+level=71
+maxcount=1
+stackable=1
+bonding=1
+material=1
+sheath=3
+durability=305
+bonus=7 1000
+spell=22850 2 0 -1 0 -1
+
+[item 40016]
+name=Siller Killer
+description=Silent Killer
+class=2
+subclass=7
+inventorytype=13
+reqlevel=75
+quality=5
+delay=1000
+damage=4000 4000 0
+buyprice=95000000
+sellprice=75000000
+bonding=1
+bonus=7 999
+bonus=3 99
+classes=07FF
+durability=225
+level=40
+material=1
+maxcount=1
+model=30606
+races=0FF
+sheath=3
+stackable=1
+
+[item 40017]
+name=Shield of Flame
+class=4
+subclass=6
+inventorytype=14
+reqlevel=75
+quality=5
+resistance1=6000
+block=60
+buyprice=75000000
+sellprice=55000000
+stackable=1
+model=30993
+classes=07FFF
+races=01FF
+level=59
+bonding=2
+material=1
+bonus=7 1000
+sheath=4
+durability=220
+
+[item 40018]
+name=Slayer of Undead
+class=2
+subclass=7
+inventorytype=21
+reqlevel=60
+quality=5
+delay=1000
+damage=3000 3000 0
+buyprice=50000000
+sellprice=39000000
+bonding=2
+classes=07FF
+durability=225
+level=100
+material=1
+maxcount=1
+bonus=7 1000
+model=30606
+races=0FF
+sheath=1
+stackable=1
+
+[item 40019]
+name=Sword that Rules
+class=2
+subclass=7
+inventorytype=21
+reqlevel=75
+quality=5
+delay=1000
+damage=5000 5000 0
+buyprice=80000000
+sellprice=60000000
+bonding=0
+bonus=7 500
+classes=07FF
+durability=225
+level=80
+material=1
+maxcount=1
+model=30606
+races=0FF
+sheath=1
+stackable=1
+
+[item 40020]
+name=Sword of Brave Warrior
+class=2
+subclass=7
+inventorytype=21
+reqlevel=75
+quality=5
+delay=1000
+damage=9999 9999 0
+buyprice=250000000
+sellprice=200000000
+bonding=0
+bonus=7 1000
+classes=07FF
+durability=225
+level=80
+material=1
+maxcount=1
+model=30606
+races=0FF
+sheath=1
+stackable=1
+
+[item 40021]
+name=Ring of Honor
+class=4
+inventorytype=11
+reqlevel=60
+quality=4
+buyprice=2000000
+sellprice=1500000
+bonding=1
+bonus=7 100
+bonus=3 100
+classes=07FF
+flags=32768
+level=33
+material=4
+maxcount=1
+model=30661
+races=0FF
+stackable=1
+
+[item 40022]
+name=Ring of Death
+class=4
+inventorytype=11
+reqlevel=60
+quality=5
+buyprice=50000000
+sellprice=40000000
+bonding=1
+bonus=7 1000
+bonus=6 1000
+classes=07FF
+flags=32768
+level=33
+material=4
+maxcount=1
+model=30661
+races=0FF
+stackable=1
+
+[item 40023]
+name=Sword that Own
+description=Power of unseen
+class=2
+subclass=7
+inventorytype=13
+reqlevel=75
+quality=5
+delay=1000
+damage=9999 9999 0
+buyprice=250000000
+sellprice=200000000
+stackable=1
+model=19997
+classes=07FFF
+races=01FF
+level=2
+language=1
+material=1
+sheath=3
+bonus=7 999
+bonus=3 99
+bonus=4 999
+durability=250
+
+[item 40024]
+name=Robes of Verture
+class=4
+subclass=1
+inventorytype=20
+reqlevel=60
+quality=5
+resistance1=4999
+buyprice=150000000
+sellprice=100000000
+bonding=2
+classes=07FFF
+durability=200
+level=76
+material=7
+model=29784
+races=01FF
+stackable=1
+bonus=5 500
+bonus=6 500
+bonus=7 500
+spell=17371 1 0 -1 0 -1
+spell=9318 1 0 -1 0 -1
+spell=7598 1 0 -1 0 -1
+spell=23699 2 0 -1 0 -1
+spell=9318 1 0 -1 0 -1
+
+//Artifact items//
+
+[item 31002]
+name=WarriorZ Shoulder Of Destruction
+class=4
+sellprice=20000000
+subclass=4
+inventorytype=3
+reqlevel=222
+quality=6
+resistance1=4321
+resistance7=99
+stackable=1
+model=29964
+classes=07FFF
+races=01FF
+material=1
+durability=250
+bonus=1 367
+bonus=3 678
+bonus=4 976
+bonus=5 678
+bonus=6 678
+bonus=7 987
+
+[item 31003]
+name=WarriorZ Wrist Of Destruction
+class=4
+subclass=4
+inventorytype=9
+reqlevel=210
+quality=6
+resistance1=3232
+resistance2=64
+resistance3=54
+resistance4=87
+resistance5=50
+resistance6=76
+resistance7=76
+sellprice=20000000
+stackable=1
+model=29958
+classes=07FFF
+races=01FF
+material=1
+durability=250
+bonus=7 2452
+
+[item 31004]
+name=WarriorZ Hand Of Destrution
+class=4
+subclass=4
+inventorytype=10
+reqlevel=215
+quality=6
+resistance1=5343
+stackable=1
+model=29962
+classes=07FFF
+sellprice=20000000
+races=01FF
+material=1
+durability=250
+bonus=4 2932
+
+
+[item 31005]
+name=WarriorZ Waist Of Destruction
+class=4
+subclass=4
+inventorytype=6
+reqlevel=225
+quality=6
+sellprice=20000000
+resistance1=4000
+stackable=1
+model=29959
+classes=07FFF
+races=01FF
+material=1
+durability=250
+bonus=7 3932
+
+[item 31006]
+name=WarriorZ LegPlates Of Destruction
+class=4
+subclass=4
+inventorytype=7
+reqlevel=225
+sellprice=20000000
+quality=6
+resistance1=4212
+resistance2=232
+stackable=1
+model=29963
+classes=07FFF
+races=01FF
+material=1
+durability=250
+bonus=7 3212
+bonus=3 321
+
+[item 31007]
+name=WarriorZ Boots Of Destruction
+class=4
+subclass=4
+inventorytype=8
+reqlevel=255
+quality=6
+sellprice=20000000
+resistance1=4232
+resistance4=232
+resistance5=121
+stackable=1
+model=29960
+classes=07FFF
+races=01FF
+material=1
+durability=250
+bonus=2 988
+bonus=3 932
+bonus=7 989
+
+[item 31008]
+name=WarriorZ Blade Of Destruction
+class=2
+subclass=7
+inventorytype=13
+reqlevel=255
+quality=6
+delay=1254
+damage=500000 100000 0
+resistance1=5000
+resistance2=5000
+resistance3=5000
+resistance4=5000
+resistance5=5000
+resistance6=5000
+resistance7=5000
+stackable=1
+model=32722
+classes=07FFF=all classes
+races=01FF= all races
+material=1
+durability=9999999
+bonus=99999
+bonus=99999
+bonus=99999
+bonus=99999
+bonus=99999
+bonus=99999
+bonding=0
+
+[item 31009]
+name=WarriorZ Shirt Of Destruction
+class=4
+inventorytype=4
+quality=6
+buyprice=1
+sellprice=20000000
+classes=07FF
+bonus=7 2321
+level=210
+material=7
+model=10112
+races=0FF
+stackable=1
+
+[item 31010]
+name=WarriorZ Tabard Of Destruction
+class=4
+inventorytype=19
+quality=1
+buyprice=10000
+sellprice=20000000
+classes=07FF
+level=245
+bonus=2 767
+bonus=3 656
+bonus=7 675
+material=7
+model=31527
+races=0FF
+stackable=1
+
+[item 31011]
+name=WarriorZ Cloak Of Destruction
+class=4
+subclass=1
+inventorytype=16
+reqlevel=220
+quality=6
+buyprice=48582
+sellprice=20000000
+classes=07FF
+level=55
+material=7
+model=24928
+races=0FF
+bonus=7 1222
+spell=7703 1 0 -1 0 -1
+stackable=1
+
+[item 31012]
+name=WarriorZ Ring Of Destruction
+class=4
+inventorytype=11
+reqlevel=230
+quality=6
+buyprice=91100
+sellprice=20000000
+classes=07FF
+level=46
+material=1
+model=14438
+races=0FF
+bonus=7 2333
+bonus=4 3222
+spell=18826 0 0 1800000 28 300000
+stackable=1
+
+[item 31013]
+name=Carrot on a Stick
+class=4
+inventorytype=12
+quality=2
+buyprice=28650
+sellprice=7162
+bonding=1
+classes=07FF
+level=255
+bonus=99999
+bonus=99999
+bonus=99999
+bonus=99999
+bonus=99999
+bonus=99999
+material=-1
+model=21115
+races=0FF
+spell=13587 1 0 0 0 0
+stackable=1
+
+[item 35630]
+name=Mask of King Baba
+class=4
+subclass=1
+inventorytype=1
+reqlevel=200
+quality=6
+resistance1=2000
+buyprice=300000000
+sellprice=10000000
+bonding=1
+bonus=5 2000
+bonus=7 2000
+bonus=6 2000
+classes=07FF
+level=62
+model=31263
+races=0FF
+stackable=1
+
+[item 35632]
+name=Nightslayer Helmet of Legend
+class=4
+subclass=2
+inventorytype=1
+reqlevel=200
+quality=6
+resistance1=2000
+resistance3=10
+buyprice=300000000
+sellprice=11000000
+bonding=1
+bonus=5 2000
+bonus=7 2000
+bonus=6 2000
+bonus=3 200
+level=66
+model=31514
+races=0FF
+spell=7598 1 0 -1 0 -1
+stackable=1
+
+[item 35634]
+name=Helmet of Hexxer
+class=4
+subclass=1
+inventorytype=1
+reqlevel=210
+quality=6
+resistance1=2580
+buyprice=300000000
+sellprice=12000000
+bonding=1
+bonus=5 2500
+bonus=7 2500
+classes=07FF
+level=71
+model=32734
+races=0FF
+spell=18057 1 0 -1 0 -1
+stackable=1
+
+[item 35636]
+name=The Shadow of Darkness
+class=4
+subclass=3
+inventorytype=1
+reqlevel=210
+quality=6
+resistance1=2700
+buyprice=350000000
+sellprice=13000000
+bonding=1
+bonus=5 2500
+bonus=7 2500
+bonus=4 2500
+flags=32768
+level=65
+maxcount=1
+model=32133
+races=0FF
+spell=7597 1 0 -1 0 -1
+stackable=1
+
+[item 35638]
+name=Shoulder of Xile
+class=4
+subclass=1
+inventorytype=3
+reqlevel=200
+quality=6
+resistance1=2400
+resistance6=7
+buyprice=250000000
+sellprice=8000000
+bonding=1
+bonus=5 999
+bonus=6 999
+bonus=7 999
+level=66
+model=31974
+races=0FF
+spell=9415 1 0 -1 0 -1
+stackable=1
+
+[item 35640]
+name=Extreme Pauldrons of Might
+class=4
+subclass=4
+inventorytype=3
+reqlevel=200
+quality=6
+resistance1=2562
+resistance6=7
+buyprice=250000000
+sellprice=8000000
+bonding=1
+bonus=7 1200
+bonus=4 1500
+level=66
+model=31024
+races=0FF
+set=209
+spell=13675 1 0 -1 0 -1
+spell=13383 1 0 -1 0 -1
+stackable=1
+
+[item 35642]
+name=Ghania Mighty Shoulder
+class=4
+subclass=2
+inventorytype=3
+reqlevel=200
+quality=6
+resistance1=2248
+buyprice=250000000
+sellprice=8000000
+bonding=1
+bonus=7 1200
+bonus=3 120
+bonus=4 1200
+bonus=6 1100
+bonus=5 1100
+flags=32768
+level=65
+maxcount=1
+model=32129
+races=0FF
+spell=9346 1 0 -1 0 -1
+stackable=1
+
+[item 35644]
+name=Dark Smoke Shoulder
+class=4
+subclass=2
+inventorytype=3
+reqlevel=200
+quality=6
+resistance1=2448
+buyprice=250000000
+sellprice=9000000
+bonding=1
+bonus=7 1300
+bonus=3 130
+bonus=4 1300
+bonus=5 1100
+flags=32768
+level=65
+maxcount=1
+model=32813
+races=0FF
+spell=9346 1 0 -1 0 -1
+stackable=1
+
+[item 35646]
+name=Shirt of Moon
+class=4
+inventorytype=4
+quality=6
+buyprice=50000000
+sellprice=1000000
+classes=07FF
+level=40
+material=7
+bonus=7 1000
+bonus=6 1000
+model=18916
+races=0FF
+stackable=1
+
+[item 35648]
+name=Stylish Blue Shirt
+class=4
+inventorytype=4
+quality=5
+buyprice=5000000
+sellprice=300000
+classes=07FF
+level=25
+material=7
+bonus=7 500
+bonus=2 500
+bonus=3 500
+model=11518
+races=0FF
+stackable=1
+
+[item 35650]
+name=Breastlate of Tarzan
+class=4
+subclass=4
+inventorytype=5
+reqlevel=200
+quality=6
+resistance1=3557
+resistance3=99
+resistance4=99
+buyprice=350000000
+sellprice=9000000
+bonding=1
+bonus=5 2001
+bonus=6 2222
+bonus=7 2223
+level=76
+model=29874
+races=0FF
+spell=18379 1 0 -1 0 -1
+spell=18030 1 0 -1 0 -1
+stackable=1
+
+[item 35652]
+name=Lord of Honor Chest
+class=4
+subclass=4
+inventorytype=5
+reqlevel=200
+quality=6
+resistance1=3497
+buyprice=350000000
+sellprice=9000000
+bonding=2
+bonus=5 1101
+bonus=6 1722
+bonus=7 1223
+classes=07FF
+extra=531
+level=52
+model=27397
+races=0FF
+stackable=1
+variation=1049 34667 85333 0.29
+variation=1050 17901 52099 0.48
+variation=1051 23152 53152 2.77
+variation=1134 19667 49667 1.24
+variation=1135 24448 58728 0.67
+variation=1136 32782 72782 2.96
+variation=1219 22575 64163 3.54
+variation=1220 50593 95593 9.85
+variation=1221 30580 75580 27.25
+variation=1328 16000 46000 0.48
+variation=1329 13333 33333 0.29
+variation=1375 34167 85833 0.29
+variation=1420 10000 30000 0.10
+variation=1467 15000 45000 0.19
+variation=1513 10625 28125 0.38
+variation=1568 23884 53884 7.17
+variation=1569 23803 53803 13.96
+variation=314 24231 54231 1.82
+variation=315 25072 65072 7.17
+variation=339 22477 64065 1.63
+variation=340 25926 74074 5.26
+variation=624 27150 72850 0.48
+variation=626 34174 84174 2.68
+variation=709 31000 89000 0.48
+variation=710 30000 90000 0.10
+variation=711 26451 62451 1.91
+variation=879 33000 77000 0.29
+variation=880 39750 95250 1.91
+variation=881 16037 46037 0.96
+variation=964 17500 52500 0.10
+variation=965 22898 57102 1.43
+variation=966 26494 68082 1.91
+
+[item 35654]
+name=High Robe of Knight
+class=4
+subclass=1
+inventorytype=20
+reqlevel=200
+quality=6
+resistance1=3382
+buyprice=350000000
+sellprice=9000000
+bonding=2
+bonus=5 1501
+bonus=3 172
+bonus=7 1823
+classes=07FF
+extra=472
+level=64
+material=7
+model=27645
+races=0FF
+stackable=1
+variation=1061 36772 66772 1.50
+variation=1062 21832 61832 2.91
+variation=1063 37299 87299 12.24
+variation=1334 34829 84487 0.30
+variation=1335 29744 69572 0.20
+variation=1426 14829 44487 0.10
+variation=1427 17500 52500 0.10
+variation=1826 94772 144772 0.70
+variation=1827 31006 60664 3.21
+variation=1864 37444 102556 1.71
+variation=1865 83596 146096 3.31
+variation=1978 263056 342714 3.31
+variation=1979 46348 106006 5.02
+variation=345 31150 70808 2.01
+variation=346 106506 176092 5.22
+variation=396 50228 100228 2.31
+variation=397 47839 107839 4.81
+variation=422 24458 65542 2.61
+variation=423 39179 69179 3.11
+variation=806 35384 75042 5.72
+variation=807 40879 119121 4.41
+variation=808 50188 110188 23.37
+variation=891 116098 302078 2.21
+variation=892 61726 157590 0.50
+variation=893 97282 177282 9.13
+
+[item 35656]
+name=Mighty Breastlate of Khanbaba
+class=4
+subclass=4
+inventorytype=5
+reqlevel=210
+quality=6
+resistance1=3561
+buyprice=350000000
+sellprice=9000000
+bonding=1
+bonus=7 2222
+bonus=6 1899
+bonus=3 110
+classes=07FF
+level=59
+model=26846
+races=0FF
+stackable=1
+
+[item 35658]
+name=Stalker Belt
+class=4
+subclass=3
+inventorytype=6
+reqlevel=200
+quality=6
+resistance1=1193
+buyprice=90000000
+sellprice=3000000
+bonding=2
+bonus=6 1100
+bonus=3 100
+bonus=5 999
+bonus=4 999
+bonus=7 999
+classes=07FF
+level=58
+model=31404
+part=14344 100.00
+races=0FF
+stackable=1
+
+[item 35660]
+name=Belt of Shaitan
+class=4
+subclass=4
+inventorytype=6
+reqlevel=200
+quality=6
+resistance1=1421
+resistance3=90
+buyprice=90000000
+sellprice=3000000
+bonding=2
+bonus=7 1500
+bonus=4 1100
+level=66
+model=31019
+races=0FF
+spell=13669 1 0 -1 0 -1
+spell=13383 1 0 -1 0 -1
+stackable=1
+
+[item 35662]
+name=Cape of Ninja
+class=4
+subclass=1
+inventorytype=16
+quality=6
+resistance1=600
+buyprice=50000000
+sellprice=1000000
+bonding=2
+bonus=7 800
+classes=07FF
+level=45
+model=28260
+races=0FF
+spell=9140 1 0 -1 0 -1
+stackable=1
+
+[item 35664]
+name=Frostwolf Cape
+class=4
+subclass=1
+inventorytype=16
+reqlevel=200
+quality=6
+resistance1=635
+buyprice=50000000
+sellprice=1000000
+bonding=2
+bonus=7 300
+bonus=3 300
+bonus=4 300
+classes=07FF
+extra=972
+level=54
+model=26262
+part=16202 100.00
+races=0FF
+stackable=1
+variation=1030 16732 46732 10.51
+variation=1031 14621 34621 2.53
+variation=1032 27292 67708 1.75
+variation=1318 15000 45000 0.10
+variation=1319 9000 27000 0.19
+variation=1364 7474 22420 0.19
+variation=1410 10000 29998 0.49
+variation=1411 15000 45000 0.10
+variation=1457 23750 71250 0.10
+variation=1502 6974 20920 0.10
+variation=1503 8392 20892 0.68
+variation=178 20473 53911 1.95
+variation=1810 11000 31000 0.68
+variation=1811 21682 51682 1.17
+variation=183 10066 30118 0.88
+variation=1848 26667 73333 0.29
+variation=1849 17296 47296 1.95
+variation=188 15456 44544 2.33
+variation=1886 19613 52113 2.24
+variation=1887 24732 64732 3.79
+variation=1962 39566 84658 1.26
+variation=1963 26027 66027 2.04
+variation=2038 40137 70137 1.56
+variation=2039 15551 45551 2.43
+variation=213 25266 65266 4.67
+variation=215 12540 32540 5.84
+variation=217 17349 47349 4.18
+variation=775 19557 49557 19.55
+variation=776 16339 46339 3.31
+variation=777 18308 50400 6.52
+variation=860 21031 58223 11.96
+variation=861 22035 57035 3.11
+variation=862 38406 78406 1.56
+
+[item 35666]
+name=Cloak of Khanbaba
+class=4
+subclass=1
+inventorytype=16
+reqlevel=200
+quality=6
+resistance1=848
+resistance3=99
+resistance6=92
+buyprice=70000000
+sellprice=3000000
+bonding=2
+bonus=7 1000
+classes=07FF
+level=62
+model=30849
+races=0FF
+spell=18384 1 0 -1 0 -1
+stackable=1
+
+[item 35668]
+name=Tabard of Wolf
+class=4
+inventorytype=19
+quality=6
+buyprice=90000000
+sellprice=4000000
+bonding=1
+bonus=7 999
+bonus=3 999
+classes=07FF
+level=20
+maxcount=1
+model=31527
+races=0FF
+stackable=1
+
+[item 35670]
+name=Clan of Khanbaba Tabard
+class=4
+inventorytype=19
+quality=6
+buyprice=190000000
+sellprice=7000000
+bonding=1
+bonus=7 1999
+bonus=5 999
+classes=07FF
+level=20
+maxcount=1
+model=32031
+races=0FF
+stackable=1
+
+[item 35672]
+name=Battle Tabard of Badshah
+class=4
+inventorytype=19
+quality=6
+buyprice=70000000
+sellprice=3000000
+bonding=1
+bonus=4 999
+bonus=2 999
+bonus=6 999
+bonus=7 300
+classes=07FF
+level=20
+maxcount=1
+model=31528
+races=0FF
+stackable=1
+
+[item 35674]
+name=Deadly Mark
+class=4
+subclass=4
+inventorytype=7
+reqlevel=200
+quality=6
+resistance1=2405
+buyprice=230000000
+sellprice=9000000
+bonding=2
+bonus=4 999
+bonus=2 999
+bonus=6 999
+bonus=7 400
+classes=07FF
+extra=613
+level=48
+model=27900
+part=11176 100.00
+races=0FF
+stackable=1
+variation=1043 21336 54116 3.00
+variation=1044 21535 51535 3.60
+variation=1045 15413 45413 13.49
+variation=1128 15811 45811 2.30
+variation=1129 19567 49567 2.00
+variation=1130 19372 49372 7.49
+variation=1213 21691 59691 5.29
+variation=1214 20055 50055 6.09
+variation=1215 24698 57098 24.58
+variation=1565 18336 47224 0.80
+variation=1566 34389 64389 3.80
+variation=2045 18875 46125 0.20
+variation=2046 37500 82500 0.20
+variation=311 11250 33750 0.10
+variation=312 23340 53340 7.09
+variation=618 15000 35000 0.70
+variation=619 15000 45000 0.20
+variation=620 16658 46658 3.20
+variation=703 38300 114900 0.10
+variation=704 16390 49170 0.30
+variation=705 31642 71642 0.90
+variation=873 17361 42639 1.00
+variation=874 18374 47186 0.80
+variation=875 21267 51267 6.79
+variation=958 16683 35683 1.20
+variation=959 27084 72916 1.80
+variation=960 17563 50343 3.00
+
+[item 35676]
+name=Legguards of Evil
+class=4
+subclass=3
+inventorytype=7
+reqlevel=200
+quality=6
+resistance1=2265
+buyprice=190000000
+sellprice=6000000
+bonding=1
+bonus=7 777
+bonus=4 990
+bonus=3 800
+classes=07FF
+level=27
+model=26995
+races=0FF
+stackable=1
+
+[item 35678]
+name=Legplates of Eagle
+class=4
+subclass=4
+inventorytype=7
+reqlevel=200
+quality=6
+resistance1=2522
+buyprice=190000000
+sellprice=5000000
+bonding=2
+bonus=7 877
+bonus=5 990
+bonus=6 600
+classes=07FF
+extra=618
+level=63
+model=26891
+races=0FF
+stackable=1
+variation=1058 14400 43202 0.52
+variation=1059 26250 73750 2.07
+variation=1060 16900 45702 2.07
+variation=1143 19400 58202 0.52
+variation=1144 29400 88202 1.04
+variation=1145 27008 70594 6.74
+variation=1228 37515 87415 10.36
+variation=1229 59101 138501 4.15
+variation=1230 46479 121879 30.05
+variation=1471 25000 75000 0.52
+variation=1573 26478 71124 6.74
+variation=1574 59628 118428 5.18
+variation=319 30908 90908 12.95
+variation=320 15800 44600 4.15
+variation=633 100000 300000 0.52
+variation=635 36900 80702 1.04
+variation=888 35000 105000 5.70
+variation=889 14400 43202 0.52
+variation=890 128336 271672 1.55
+variation=973 25000 75000 0.52
+variation=975 26267 56267 3.11
+
+[item 35680]
+name=Black Boot of Dragon
+class=4
+subclass=3
+inventorytype=8
+reqlevel=200
+quality=6
+resistance1=2270
+resistance3=80
+buyprice=150000000
+sellprice=5000000
+bonding=2
+bonus=7 1000
+bonus=3 877
+classes=07FF
+level=61
+model=28760
+races=0FF
+spell=9335 1 0 -1 0 -1
+stackable=1
+
+[item 35682]
+name=Bloody Boots
+class=4
+subclass=2
+inventorytype=8
+reqlevel=200
+quality=6
+resistance1=2329
+buyprice=150000000
+sellprice=3000000
+bonding=1
+bonus=3 112
+bonus=7 1011
+classes=07FF
+level=68
+model=32773
+races=0FF
+spell=15464 1 0 -1 0 -1
+stackable=1
+
+[item 35684]
+name=Bracer of Shadow
+class=4
+subclass=2
+inventorytype=9
+reqlevel=200
+quality=6
+resistance1=822
+buyprice=130000000
+sellprice=3000000
+bonding=1
+bonus=5 500
+bonus=6 500
+bonus=7 700
+flags=32768
+level=68
+model=32287
+races=0FF
+spell=9408 1 0 -1 0 -1
+stackable=1
+
+[item 35686]
+name=Khanbaba Bracers
+class=4
+subclass=2
+inventorytype=9
+reqlevel=200
+quality=6
+resistance1=975
+buyprice=130000000
+sellprice=3000000
+bonding=1
+bonus=3 967
+bonus=4 966
+bonus=7 966
+classes=07FF
+flags=32768
+level=55
+model=32090
+races=0FF
+stackable=1
+
+[item 35690]
+name=Special Khanbaba Weapon
+class=2
+subclass=1
+inventorytype=17
+reqlevel=200
+quality=6
+delay=100
+damage=15000 20000 2
+buyprice=1000000
+sellprice=2000000
+model=32313
+classes=07FFF
+races=01FF
+level=50
+bonding=2
+material=1
+sheath=1
+bonus=7 5550
+bonus=4 5550
+bonus=3 9999
+spell=17148 2 0 -1 0 -1
+
+[item 35692]
+name=Special Sulfuras Hammer of Khanbaba
+class=2
+subclass=5
+inventorytype=17
+reqlevel=250
+quality=6
+delay=1200
+damage=62000 89999 0
+buyprice=5000000000
+sellprice=5000000000
+sellprice=0
+classes=07FFF
+durability=545
+level=160
+material=1
+model=29698
+sheath=1
+stackable=1
+maxcount=1
+spell=21162 2 0 -1 0 -1
+spell=21142 1 0 -1 0 -1
+spell=23730 1 0 -1 0 -1
+spell=18212 2 0 -1 0 -1
+bonus=3 2400
+bonus=5 3300
+bonus=6 3200
+bonus=7 8800
+resistance1=2750
+description=Only WOrthy Can handle this Hammer
+
+[item 35695]
+name=Special Sword of GMs
+class=2
+subclass=5
+inventorytype=17
+reqlevel=200
+quality=6
+delay=100
+damage=62000 78372 0
+resistance3=900
+buyprice=1663117
+sellprice=3326234
+bonding=1
+classes=07FFF
+level=80
+material=1
+model=31999
+sheath=1
+stackable=1
+maxcount=1
+bonus=4 5000
+bonus=7 9000
+bonus=6 2500
+bonus=3 9999
+bonus=1 9999
+spell=21162 2 0 -1 0 -1
+spell=21142 1 0 -1 0 -1
+
+[item 35698]
+name=Chicken Egg
+class=15
+quality=4
+buyprice=100
+sellprice=10000
+classes=07FF
+level=1
+material=-1
+model=18047
+races=0FF
+stackable=1
+
+[item 35699]
+name=Helmet of Khanbaba
+class=4
+description=Forged in Valley of Khan (Unrepairable Item)
+subclass=4
+inventorytype=1
+reqlevel=1
+quality=6
+resistance1=5000
+buyprice=42977
+sellprice=50000000
+bonding=0
+bonus=7 5000
+bonus=6 5500
+classes=07FF
+durability=9970
+level=54
+material=6
+model=27395
+races=0FF
+stackable=1
+
+[item 35900]
+name=Special Sword of Shadow
+class=2
+inventorytype=17
+reqlevel=200
+quality=6
+delay=1400
+damage=22206 33310 0
+buyprice=982192
+sellprice=90000000
+bonding=1
+classes=07FF
+level=77
+material=1
+model=31999
+races=0FF
+sheath=1
+spell=21153 2 0 -1 0 -1
+spell=7597 1 0 -1 0 -1
+stackable=1
+
+[item 35902]
+name=Special Sword of Shadow
+class=2
+inventorytype=17
+reqlevel=200
+quality=6
+delay=1400
+damage=22206 33310 0
+buyprice=982192
+sellprice=90000000
+bonding=1
+bonus=7 4000
+bonus=3 3000
+bonus=5 3000
+classes=07FF
+level=77
+material=1
+model=31999
+races=0FF
+sheath=1
+spell=21153 2 0 -1 0 -1
+spell=7597 1 0 -1 0 -1
+stackable=1
+
+[item 35904]
+name=Special Sword of GM
+class=2
+inventorytype=17
+reqlevel=200
+quality=6
+delay=1400
+damage=22206 33310 0
+buyprice=982192
+sellprice=90000000
+bonding=1
+classes=07FF
+bonus=7 9999
+bonus=3 9999
+bonus=5 9999
+bonus=1 9999
+durability=120
+level=77
+material=1
+model=29991
+races=0FF
+sheath=1
+spell=21153 2 0 -1 0 -1
+spell=7597 1 0 -1 0 -1
+stackable=1
+
+[item 35905]
+name=Special Sword of GM
+class=2
+inventorytype=17
+reqlevel=200
+quality=6
+delay=1400
+damage=22206 33310 0
+buyprice=982192
+sellprice=90000000
+bonding=1
+classes=07FF
+bonus=7 9999
+bonus=3 9999
+bonus=5 9999
+bonus=1 9999
+level=77
+material=1
+model=29991
+races=0FF
+sheath=1
+spell=21153 2 0 -1 0 -1
+spell=7597 1 0 -1 0 -1
+stackable=1
+
+[item 35906]
+name=Special Sword of GM
+class=2
+inventorytype=17
+reqlevel=200
+quality=6
+delay=100
+damage=82206 93310 0
+buyprice=982192
+sellprice=90000000
+bonding=1
+classes=07FF
+bonus=7 9999
+bonus=3 9999
+bonus=5 9999
+bonus=1 9999
+level=77
+material=1
+durability=120
+model=29991
+races=0FF
+sheath=1
+spell=21153 2 0 -1 0 -1
+spell=7597 1 0 -1 0 -1
+stackable=1
+
+[item 35908]
+name=Special Sword of GM
+class=2
+inventorytype=17
+reqlevel=200
+quality=6
+delay=100
+damage=82206 93310 0
+buyprice=982192
+sellprice=90000000
+bonding=1
+classes=07FF
+bonus=7 9999
+bonus=3 9999
+bonus=5 9999
+bonus=1 9999
+level=77
+material=1
+model=29991
+races=0FF
+sheath=1
+spell=21153 2 0 -1 0 -1
+spell=7597 1 0 -1 0 -1
+stackable=1
+
+[item 35910]
+name=Special Sword of GM
+class=2
+inventorytype=17
+reqlevel=200
+quality=6
+delay=100
+damage=16206 19310 0
+buyprice=982192
+sellprice=90000000
+bonding=1
+classes=07FF
+bonus=7 99999
+bonus=3 99999
+bonus=5 9999
+bonus=1 9999
+level=77
+material=1
+model=29991
+races=0FF
+sheath=1
+spell=21153 2 0 -1 0 -1
+spell=7597 1 0 -1 0 -1
+stackable=1
+
+[item 35912]
+name=Proof of Victory
+class=6
+subclass=2
+inventorytype=24
+reqlevel=1
+quality=5
+delay=3000
+damage=1 2 0
+classes=07FF
+level=5
+material=2
+model=5996
+races=0FF
+stackable=2000
+
+[item 35916]
+name=Special Sword of Shadow
+class=2
+subclass=5
+inventorytype=17
+reqlevel=200
+quality=6
+delay=1000
+damage=22000 38372 0
+resistance3=90
+buyprice=300000000
+sellprice=600000
+bonding=1
+classes=07FFF
+level=80
+material=1
+model=31999
+sheath=1
+stackable=1
+maxcount=1
+bonus=4 3000
+bonus=7 3000
+bonus=6 2500
+bonus=3 2999
+
+[item 35918]
+name=Proof of Victory
+class=6
+subclass=2
+inventorytype=24
+reqlevel=1
+quality=5
+delay=3000
+damage=1 2 0
+sellprice=0
+classes=07FF
+level=5
+material=2
+model=5996
+races=0FF
+stackable=2000
+
+[item 35920]
+name=Aegis of Khanbaba
+class=4
+subclass=6
+inventorytype=14
+reqlevel=200
+quality=6
+resistance1=9999
+block=60
+buyprice=325385
+sellprice=65077
+bonding=0
+bonus= 7 9999
+bonus= 3 9999
+bonus= 4 9999
+classes=07FF
+level=68
+material=6
+model=32561
+races=0FF
+sheath=4
+spell=23562 1 0 -1 0 -1
+spell=13385 1 0 -1 0 -1
+spell=13675 1 0 -1 0 -1
+stackable=1
+
+[item 35922]
+name=Ring of Master Magician
+description=All damage and Healing done by spell are increased by 20000 Proudly Presented By Khanbaba
+class=4
+inventorytype=11
+reqlevel=60
+quality=6
+buyprice=421312
+sellprice=421312
+bonding=0
+bonus=5 2999
+bonus=7 2999
+classes=07FF
+level=75
+material=3
+maxcount=1
+model=31800
+races=0FF
+spell=23727 1 0 -1 0 -1
+spell=14248 1 0 -1 0 -1
+stackable=1
+
+[item 35924]
+name=Ring of Master Magician
+description=Ring of Zorawar
+class=4
+inventorytype=11
+reqlevel=200
+quality=6
+buyprice=750000000
+sellprice=500000000
+bonding=0
+bonus=5 4999
+bonus=7 4999
+classes=07FF
+level=75
+material=3
+maxcount=1
+model=31800
+races=0FF
+spell=23727 1 0 -1 0 -1
+spell=14248 1 0 -1 0 -1
+stackable=1
+
+[item 35926]
+name=Ring of Master Warrior
+description=Ring of Badshah
+class=4
+inventorytype=11
+reqlevel=200
+quality=6
+resistance1=4999
+buyprice=200000000
+sellprice=90000000
+bonding=0
+bonus=7 4999
+classes=07FF
+level=75
+material=3
+maxcount=1
+model=31800
+races=0FF
+spell=23727 1 0 -1 0 -1
+spell=14248 1 0 -1 0 -1
+stackable=1
+
+[item 35928]
+name=Sword of Worthy
+description=The Warrior of Honor
+class=2
+subclass=8
+inventorytype=17
+reqlevel=200
+quality=6
+delay=1500
+damage=22229 33344 0
+buyprice=200000000
+sellprice=90000000
+bonding=2
+bonus=7 3333
+classes=07FF
+durability=920
+level=81
+material=1
+model=32000
+races=0FF
+sheath=1
+stackable=1
+
+[item 35930]
+name=Sword of Worthy
+description=The Warrior of Honor
+class=2
+subclass=8
+inventorytype=17
+reqlevel=200
+quality=6
+delay=1500
+damage=22229 33344 0
+buyprice=200000000
+sellprice=90000000
+durability=999
+bonding=2
+bonus=7 3333
+classes=07FF
+level=81
+material=2
+model=32000
+races=0FF
+sheath=1
+stackable=1
+
+[item 35931]
+name=Sword of Worthy
+description=warning Unrepairable Item Due to Being Artifact, Sell it when reach Durabillity of 25
+class=2
+subclass=8
+inventorytype=17
+reqlevel=199
+quality=6
+delay=1500
+damage=22229 33344 0
+buyprice=500000000
+sellprice=450000000
+model=32000
+classes=07FF
+races=0FF
+level=1
+material=1
+durability=250
+bonus=7 3333
+spell=15829 1 0 -1 0 -1
+stackable=1
+
+[item 35932]
+name=Dagger of Warrior
+description=warning Unrepairable Item Due to Being Artifact, Sell it when reach Durabillity of 25
+class=2
+subclass=15
+inventorytype=13
+reqlevel=199
+quality=6
+delay=1200
+damage=9898 19872 0
+buyprice=500000000
+sellprice=450000000
+model=33095
+classes=07FF
+races=0FF
+level=10
+material=1
+durability=250
+bonus=7 3000
+bonus=4 3000
+stackable=1
+
+[item 35933]
+name=Artifact Bullet
+class=6
+subclass=3
+inventorytype=24
+reqlevel=150
+quality=6
+delay=1000
+damage=999 999 0
+buyprice=5000
+sellprice=1200
+stackable=200
+model=31813
+classes=07FF
+races=0FF
+level=54
+material=2
+
+[item 35934]
+name=Virgin Killer
+description=warning Unrepairable Item Due to Being Artifact, Sell it when reach Durabillity of 25
+class=2
+subclass=15
+inventorytype=13
+reqlevel=210
+quality=6
+delay=1200
+damage=9999 19999 0
+buyprice=500000000
+sellprice=450000000
+durability=250
+bonus=7 3999
+bonus=3 2999
+classes=07FF
+level=10
+material=1
+model=31865
+races=0FF
+sheath=3
+stackable=1
+
+[item 35936]
+name=Polearm of Highwarlord
+description=warning Unrepairable Item Due to Being Artifact, Sell it when reach Durabillity of 25
+class=2
+subclass=6
+inventorytype=17
+reqlevel=210
+quality=6
+delay=1500
+damage=22333 33999 0
+buyprice=500000000
+sellprice=450000000
+durability=250
+bonus=7 3999
+bonus=4 2999
+classes=0000 //All Classes
+level=78
+material=1
+model=31766
+races=0000 //All Races
+sheath=2
+spell=7597 1 0 -1 0 -1
+stackable=1
+
+[item 35937]
+name=Polearm of Highwarlord
+description=warning Unrepairable Item Due to Being Artifact, Sell it when reach Durabillity of 25
+class=2
+subclass=6
+inventorytype=17
+reqlevel=199
+quality=6
+delay=1500
+damage=20000 35000 0
+buyprice=500000000
+sellprice=450000000
+stackable=1
+model=31766
+classes=07FF
+races=0FF
+level=78
+material=1
+durability=250
+bonus=7 3000
+bonus=4 2000
+spell=7597 1 0 -1 0 -1
+
+[item 35938]
+name=Silent Killer Gun
+description=warning Unrepairable Item Due to Being Artifact, Sell it when reach Durabillity of 25
+class=2
+subclass=3
+inventorytype=26
+reqlevel=200
+quality=6
+delay=1000
+damage=9999 15999 0
+buyprice=500000000
+sellprice=450000000
+ammotype=3
+durability=250
+bonus=3 3999
+bonus=7 3999
+classes=07FF
+level=75
+material=2
+model=31225
+races=0FF
+stackable=1
+
+[item 35940]
+name=Sword of Bastard
+description=warning Unrepairable Item Due to Being Artifact, Sell it when reach Durabillity of 25
+class=2
+subclass=8
+inventorytype=17
+reqlevel=200
+quality=6
+delay=1500
+damage=22229 33999 0
+buyprice=500000000
+sellprice=450000000
+durability=250
+bonus=7 3333
+bonus=3 1999
+classes=07FF
+level=81
+material=1
+model=7489
+races=0FF
+sheath=1
+stackable=1
+
+[item 35942]
+name=Ashbringer Sword of Honor
+description=warning Unrepairable Item Due to Being Artifact, Sell it when reach Durabillity of 25
+class=2
+subclass=8
+inventorytype=17
+reqlevel=200
+quality=6
+delay=1500
+damage=22229 33344 0
+buyprice=500000000
+sellprice=450000000
+durability=250
+bonus=7 3333
+bonus=3 1999
+classes=07FF
+level=81
+material=1
+model=29992
+races=0FF
+sheath=1
+stackable=1
+
+[item 35944]
+name=Ashbringer Sword of Horde
+description=warning Unrepairable Item Due to Being Artifact, Sell it when reach Durabillity of 25
+class=2
+subclass=8
+inventorytype=17
+reqlevel=200
+quality=6
+delay=1500
+damage=22229 33999 0
+buyprice=500000000
+sellprice=450000000
+durability=250
+bonus=7 3333
+bonus=3 1999
+classes=07FF
+level=81
+material=1
+model=26451
+races=0FF
+sheath=1
+stackable=1
+
+[item 35946]
+name=Extreme Bullet
+class=6
+subclass=3
+inventorytype=24
+reqlevel=51
+quality=6
+delay=1000
+damage=999 999 0
+buyprice=10000
+sellprice=5000
+classes=07FF
+level=54
+material=2
+model=31813
+races=0FF
+stackable=200
+
+[item 35948]
+name=Badshah Trinket
+class=4
+inventorytype=12
+reqlevel=60
+quality=6
+buyprice=500000000
+sellprice=300000000
+classes=07FF
+flags=64
+level=66
+bonus=7 3999
+bonus=3 1999
+bonus=4 2999
+material=-1
+maxcount=1
+model=31769
+races=0FF
+spell=23688 1 0 -1 0 -1
+stackable=1
+
+[item 35950]
+name=Gauntlest of Flames
+class=4
+subclass=4
+inventorytype=10
+reqlevel=200
+quality=6
+resistance1=4999
+buyprice=300000000
+sellprice=200000000
+bonus=7 3999
+bonus=5 2999
+bonus=6 2999
+classes=07FF
+level=69
+material=6
+model=31660
+races=0FF
+spell=7597 1 0 -1 0 -1
+spell=15813 1 0 -1 0 -1
+stackable=1
+
+//AFG mounts//
+
+//Mounts Items
+
+[item 25500]
+name=Afghan Black Stallion Bridle
+class=15
+reqlevel=1
+quality=4
+buyprice=800000
+sellprice=800000
+bonding=3
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=470 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 25501]
+name=Afghan White Stallion Bridle
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=16083 0 0 -1 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 25502]
+name=Afghan Black War Steed Bridle
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=22717 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 25503]
+name=Afghan Great White Kodo
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+spell=23247 0 0 0 330 3000
+stackable=1
+model=1283
+material=-1
+flags=64
+
+[item 25504]
+name=Afghan Great Brown Kodo
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=23249 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 25505]
+name=Afghan Black War Kodo
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+spell=22718 0 0 0 330 3000
+stackable=1
+material=-1
+model=1283
+flags=64
+
+[item 25506]
+name=Afghan Gray Kodo
+class=15
+reqlevel=1
+quality=4
+buyprice=800000
+sellprice=800000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+spell=18989 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+model=1283
+
+[item 25507]
+name=Afghan Whistle of the Ivory Raptor
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=17450 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 25508]
+name=Afghan Whistle of the Violet Raptor
+class=15
+reqlevel=1
+quality=4
+buyprice=1000000
+sellprice=1000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+model=1283
+spell=10799 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 25509]
+name=Afghan Whistle of the Obsidian Raptor
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=10795 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 25510]
+name=Afghan Red Mechanostrider
+class=15
+reqlevel=1
+quality=4
+buyprice=1000000
+sellprice=1000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+model=1283
+spell=10873 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 25511]
+name=Afghan White Mechanostrider Mod A
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+model=1283
+spell=15779 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 25512]
+name=Afghan Icy Blue Mechanostrider Mod A
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+model=1283
+spell=17459 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 25513]
+name=Afghan Swift Timber Wolf
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+model=1283
+spell=23251 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 25514]
+name=Afghan Swift Gray Wolf
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+model=1283
+spell=23252 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 25515]
+name=Afghan Swift Brown Ram
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+model=1283
+spell=23238 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 25516]
+name=Afghan Swift White Steed
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+model=1283
+spell=23228 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 25517]
+name=Afghan Swift White Ram
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+spell=23240 0 0 0 330 3000
+stackable=1
+material=-1
+model=1283
+flags=64
+
+[item 25518]
+name=Afghan Swift Mistsaber
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+spell=23219 0 0 0 330 3000
+stackable=1
+material=-1
+model=1283
+flags=64
+
+[item 25519]
+name=Afghan Swift Frostsaber
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+spell=23221 0 0 0 330 3000
+stackable=1
+material=-1
+model=1283
+flags=64
+
+[item 25520]
+name=Afghan Red Skeletal Horse
+class=15
+reqlevel=1
+quality=4
+buyprice=1000000
+sellprice=1000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+spell=17462 0 0 0 330 3000
+stackable=1
+material=-1
+model=1283
+flags=64
+
+[item 25521]
+name=Afghan Blue Skeletal Horse
+class=15
+reqlevel=1
+quality=4
+buyprice=1000000
+sellprice=1000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+spell=17463 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+model=1283
+
+[item 25522]
+name=Afghan Green Skeletal Warhorse
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+spell=17465 0 0 0 330 3000
+stackable=1
+material=-1
+model=1283
+flags=64
+
+[item 25523]
+name=Afghan Red Skeletal Warhorse
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+spell=22722 0 0 0 330 3000
+stackable=1
+material=-1
+model=1283
+flags=64
+
+[item 25524]
+name=Afghan Frostwolf Howler
+class=15
+reqlevel=1
+quality=4
+buyprice=1000000
+sellprice=1000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+spell=23509 0 0 -1 330 -1
+stackable=1
+model=1283
+material=-1
+flags=64
+
+[item 25525]
+name=Afghan Black War Tiger
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+spell=22723 0 0 0 330 3000
+stackable=1
+model=1283
+material=-1
+flags=64
+
+[item 25533]
+name=Afghan Imp Pet
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+spell=688 0 0 0 330 3000
+stackable=1
+model=1283
+material=-1
+flags=64
+
+[item 25534]
+name=Afghan Syndicate Spectre Pet
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+spell=3721 0 0 0 330 3000
+stackable=1
+model=1283
+material=-1
+flags=64
+
+[item 25535]
+name=Afghan Gorilla Pet
+class=15
+reqlevel=1
+quality=4
+buyprice=10000000
+sellprice=10000000
+bonding=3
+classes=07FF
+level=1
+races=01FF
+spell=7909 0 0 0 330 3000
+stackable=1
+model=1283
+material=-1
+flags=64
+
+//Special Mounts//
+
+
+[item 255000]
+name=Afghan Chromatic Drake Mount
+class=15
+reqlevel=70
+quality=6
+description=This is very fast mount 100% Speed Made by Khanbaba
+buyprice=20000000
+sellprice=15000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=24576 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255002]
+name=Afghan Black Qiraji Silithus Mount
+class=15
+reqlevel=60
+quality=5
+buyprice=10000000
+sellprice=9000000
+classes=07FF
+level=1
+description=This is very fast mount 100% Speed Made by Khanbaba
+model=1283
+races=01FF
+spell=26655 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255003]
+name=Afghan GameMaster Yellow Qiraji Silithus Mount
+class=15
+reqlevel=60
+quality=6
+buyprice=100000000
+sellprice=90000000
+classes=07FF
+level=1
+description=Specially Made for GM This is very fast mount 500% Speed Made by Khanbaba
+model=1283
+races=01FF
+spell=26656 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255004]
+name=Afghan Special Black Drake Mount
+class=15
+description=This is very fast mount 200% Speed Made by Khanbaba
+reqlevel=60
+quality=6
+buyprice=1000000000
+sellprice=90000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26839 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255005]
+name=Afghan Red Drake Mount
+class=15
+description=This is very fast mount 100% Speed Made by Khanbaba
+reqlevel=60
+quality=5
+buyprice=20000000
+sellprice=9000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26840 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255006]
+name=Afghan Green Drake Mount
+class=15
+description=This is very fast mount 100% Speed Made by Khanbaba
+reqlevel=60
+quality=5
+buyprice=20000000
+sellprice=9000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26841 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255007]
+name=Afghan Blue Drake Mount
+class=15
+description=This is very fast mount 100% Speed Made by Khanbaba
+reqlevel=60
+quality=5
+buyprice=20000000
+sellprice=9000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26842 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255008]
+name=Afghan Blue Wyvern Mount
+class=15
+description=This is very fast mount 100% Speed Made by Khanbaba
+reqlevel=60
+quality=5
+buyprice=20000000
+sellprice=9000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26845 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255108]
+name=Afghan Green Wyvern Mount
+class=15
+description=This is very fast mount 100% Speed Made by Khanbaba
+reqlevel=60
+quality=5
+buyprice=20000000
+sellprice=9000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26846 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255009]
+name=Afghan Purple Hippogryph Mount
+class=15
+description=This is very fast mount 100% Speed Made by Khanbaba
+reqlevel=60
+quality=5
+buyprice=20000000
+sellprice=9000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26847 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255010]
+name=Afghan Blue Hippogryph Mount
+class=15
+description=This is very fast mount 100% Speed Made by Khanbaba
+reqlevel=60
+quality=5
+buyprice=20000000
+sellprice=9000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26848 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255011]
+name=Afghan Special White Hippogryph Mount
+class=15
+description=This is very fast mount 200% Speed Made by Khanbaba
+reqlevel=60
+quality=6
+buyprice=1000000000
+sellprice=90000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26852 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255012]
+name=Afghan Green Hippogryph Mount
+class=15
+description=This is very fast mount 100% Speed Made by Khanbaba
+reqlevel=60
+quality=5
+buyprice=20000000
+sellprice=9000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26853 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255013]
+name=Afghan Evil Unicorn Mount
+class=15
+description=This is very fast mount 100% Speed Made by Khanbaba
+reqlevel=60
+quality=5
+buyprice=10000000
+sellprice=9000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26849 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255014]
+name=Afghan Brown Zebra Unicorn Mount
+class=15
+description=This is very fast mount 100% Speed Made by Khanbaba
+reqlevel=60
+quality=5
+buyprice=10000000
+sellprice=9000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26850 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255015]
+name=Afghan Zebra Unicorn Mount
+class=15
+description=This is very fast mount 100% Speed Made by Khanbaba
+reqlevel=60
+quality=5
+buyprice=10000000
+sellprice=9000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26851 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255016]
+name=Afghan Special Evil Steed Horse
+class=15
+description=This is very fast mount 200% Speed Made by Khanbaba
+reqlevel=60
+quality=6
+buyprice=10000000000
+sellprice=900000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26854 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+bonding=0
+
+[item 255017]
+name=Afghan Gold Lion Shape Mount
+class=15
+description=This spell will change your model into Gold Lion  with 100% Speed Made by Khanbaba
+reqlevel=100
+quality=6
+buyprice=10000000
+sellprice=10000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26857 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 255018]
+name=Afghan FelBeast Shape Mount
+class=15
+description=This spell will change your model into FelBeast  with 100% Speed Made by Khanbaba
+reqlevel=100
+quality=6
+buyprice=10000000
+sellprice=10000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26858 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 255019]
+name=Afghan Salamander Shape Mount
+class=15
+description=This spell will change your model into Salamander  with 100% Speed Made by Khanbaba
+reqlevel=100
+quality=6
+buyprice=10000000
+sellprice=10000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26859 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 255020]
+name=Afghan Snowman Shape Mount
+class=15
+description=This spell will change your model into Snowman  with 100% Speed Made by Khanbaba
+reqlevel=100
+quality=6
+buyprice=10000000
+sellprice=10000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26860 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 255021]
+name=Afghan Flying Cockroach Shape Mount
+class=15
+description=This spell will change your model into Flying Cockroach  with 100% Speed Made by Khanbaba
+reqlevel=100
+quality=6
+buyprice=10000000
+sellprice=10000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26861 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+[item 255022]
+name=Afghan Dryad Shape Mount
+class=15
+description=This spell will change your model into Flying Cockroach  with 100% Speed Made by Khanbaba
+reqlevel=100
+quality=6
+buyprice=10000000
+sellprice=10000000
+classes=07FF
+level=1
+model=1283
+races=01FF
+spell=26862 0 0 0 330 3000
+stackable=1
+material=-1
+flags=64
+
+//Quest Items//
+
+
+[item 42844]
+name=Proof of Weapon Mastery
+description=By collecting this certain amount you will recieve special reward from one of Badshah Masters
+class=12
+reqlevel=1
+quality=4
+model=23717
+sell=50000
+classes=07FF
+races=0FF
+stackable=999
+
+[item 42845]
+name=Proof of Riding Mastery
+description=By collecting this certain amount you will recieve special reward from one of Badshah Masters
+class=12
+reqlevel=1
+quality=4
+sell=50000
+model=9857
+classes=07FF
+races=0FF
+material=0
+stackable=999
+
+[item 42846]
+name=Proof of Wisdom Mastery
+description=By collecting this certain amount you will recieve special reward from one of Badshah Masters
+class=4
+inventorytype=12
+reqlevel=1
+quality=4
+sell=50000
+model=23716
+classes=07FF
+races=0FF
+stackable=999
+
+[item 42848]
+name=Bow of Weapon Master
+description=Forged in the Shadow of Khan Valley
+class=2
+subclass=2
+inventorytype=15
+reqlevel=1
+quality=4
+delay=1500
+damage=10000 12000 0
+buyprice=73609
+sellprice=200000000
+model=30926
+classes=07FF
+races=0FF
+level=64
+material=1
+durability=250
+bonus=3 999
+bonus=5 999
+bonus=6 999
+bonus=7 999
+bonus=4 999
+stackable=1
+maxcount=1
+stackable=1
+model=33857
+classes=07FF
+bonus=3 999
+bonus=7 999
+races=0FF
+level=42
+material=2
+durability=250
+ammotype=2
+
+[item 42849]
+name=Gun of Master
+description=Forged in the Shadow of Khan Valley
+class=2
+subclass=3
+inventorytype=26
+reqlevel=1
+quality=4
+delay=1000
+damage=10000 12000 0
+buyprice=500000000
+sellprice=200000000
+ammotype=3
+durability=250
+bonus=3 999
+bonus=7 999
+classes=07FF
+level=75
+material=2
+model=31225
+races=0FF
+stackable=1
+
+[item 42850]
+name=Blade of Khanbaba
+class=2
+subclass=8
+inventorytype=17
+quality=4
+delay=1100
+damage=14229 19344 0
+buyprice=500000000
+sellprice=250000000
+model=34112
+classes=07FF
+races=0FF
+level=1
+material=1
+durability=250
+bonus=7 2999
+spell=15829 1 0 -1 0 -1
+stackable=1
+
+//AFG Tier 3 Items//
+
+[item 25348]
+bonus=5 922
+bonus=6 776 
+bonus=7 972
+class=4
+durability=120
+inventorytype=1
+level=80
+material=7
+model=34348
+name=AFG Tiara of the Oracle
+quality=4
+classes=16
+reqlevel=200
+resistance1=3250
+buyprice=100000000
+sellprice=9000000
+set=507
+spell=14127 1 0 -1 0 -1
+spell=21628 1 0 -1 0 -1
+spell=23727 1 0 -1 0 -1
+stackable=1
+subclass=1
+
+[item 25349]
+bonus=5 564
+bonus=6 1222
+bonus=7 2434
+class=4
+durability=135
+inventorytype=8
+level=78
+material=7
+model=33647
+name=AFG Footwraps of the Oracle
+quality=4
+classes=16
+reqlevel=200
+resistance1=2112
+buyprice=100000000
+sellprice=9000000
+set=507
+spell=14248 1 0 -1 0 -1
+spell=21625 1 0 -1 0 -1
+stackable=1
+subclass=1
+
+[item 25350]
+bonus=5 1898
+bonus=6 800
+bonus=7 2100
+class=4
+durability=120
+inventorytype=3
+level=78
+material=7
+model=34021
+name=AFG Mantle of the Oracle
+quality=4
+classes=16
+reqlevel=200
+resistance1=2678
+buyprice=100000000
+sellprice=9000000
+set=507
+spell=14799 1 0 -1 0 -1
+spell=21625 1 0 -1 0 -1
+spell=25975 1 0 -1 0 -1
+stackable=1
+subclass=1
+
+[item 25351]
+bonus=5 2600
+bonus=6 1500
+bonus=7 2300
+class=4
+durability=165
+inventorytype=5
+classes=16
+level=88
+material=7
+model=34063
+name=AFG Vestments of the Oracle
+quality=4
+reqlevel=200
+resistance1=3183
+buyprice=100000000
+sellprice=9000000
+set=507
+spell=18053 1 0 -1 0 -1
+spell=18384 1 0 -1 0 -1
+spell=25975 1 0 -1 0 -1
+stackable=1
+subclass=1
+
+
+[item 25352]
+bonus=5 1232
+bonus=6 1400
+bonus=7 1600
+class=4
+durability=120
+inventorytype=7
+level=81
+material=7
+model=33652
+name=AFG Trousers of the Oracle
+quality=4
+classes=16
+reqlevel=200
+resistance1=4157
+buyprice=100000000
+sellprice=9000000
+set=507
+spell=18050 1 0 -1 0 -1
+spell=21627 1 0 -1 0 -1
+stackable=1
+subclass=1
+
+[item 25359]
+bonus=3 1130
+bonus=4 1700
+bonus=7 2100
+class=4
+durability=135
+inventorytype=8
+level=78
+material=8
+model=33673
+name=AFG Deathdealer's Boots
+quality=4
+classes=8
+reqlevel=200
+resistance1=2158
+buyprice=100000000
+sellprice=9000000
+set=497
+spell=15464 1 0 -1 0 -1
+stackable=1
+subclass=2
+
+[item 25360]
+bonus=3 1900
+bonus=4 2500 
+bonus=7 2700
+class=4
+durability=120
+inventorytype=1
+level=81
+material=8
+model=34397
+name=AFG Deathdealer's Helm
+quality=4
+classes=8
+reqlevel=200
+resistance1=3192
+buyprice=100000000
+sellprice=9000000
+set=497
+spell=7597 1 0 -1 0 -1
+spell=15464 1 0 -1 0 -1
+stackable=1
+subclass=2
+
+[item 25361]
+bonus=3 500
+bonus=4 678
+bonus=7 1500
+class=4
+durability=120
+inventorytype=3
+level=78
+material=8
+model=34077
+name=AFG Deathdealer's Spaulders
+quality=4
+classes=8
+reqlevel=200
+resistance1=3572
+buyprice=100000000
+sellprice=9000000
+set=497
+spell=15464 1 0 -1 0 -1
+stackable=1
+subclass=2
+
+[item 25362]
+bonus=3 987
+bonus=4 878
+bonus=7 995
+class=4
+durability=120
+inventorytype=7
+level=81
+material=8
+model=33678
+name=AFG Deathdealer's Leggings
+quality=4
+classes=8
+reqlevel=200
+resistance1=3200
+buyprice=100000000
+sellprice=9000000
+set=497
+spell=7597 1 0 -1 0 -1
+stackable=1
+subclass=2
+
+[item 25364]
+bonus=3 1700
+bonus=4 1900
+bonus=7 2800
+class=4
+durability=165
+inventorytype=5
+classes=8
+level=88
+material=8
+model=34087
+name=AFG Deathdealer's Vest
+quality=4
+reqlevel=200
+resistance1=2253
+buyprice=100000000
+sellprice=9000000
+set=497
+spell=7597 1 0 -1 0 -1
+spell=15464 1 0 -1 0 -1
+stackable=1
+subclass=2
+
+[item 25329]
+bonus=3 676
+bonus=4 995 
+bonus=7 1400
+class=4
+durability=120
+inventorytype=1
+level=81
+material=6
+model=33716
+name=AFG Conqueror's Crown
+quality=4
+classes=1
+reqlevel=200
+resistance1=3739
+buyprice=100000000
+sellprice=9000000
+set=496
+spell=13384 1 0 -1 0 -1
+stackable=1
+subclass=4
+
+[item 25330]
+bonus=3 996
+bonus=4 1990
+bonus=7 2100
+class=4
+durability=120
+inventorytype=3
+level=78
+material=6
+model=33712
+name=AFG Conqueror's Spaulders
+quality=4
+classes=1
+reqlevel=200
+resistance1=3659
+buyprice=100000000
+sellprice=9000000
+set=496
+spell=7517 1 0 -1 0 -1
+spell=15464 1 0 -1 0 -1
+stackable=1
+subclass=4
+
+[item 25331]
+bonus=3 2400
+bonus=4 3400
+bonus=7 3800
+class=4
+durability=165
+inventorytype=5
+classes=1
+level=88
+material=6
+model=33709
+name=AFG Conqueror's Breastplate
+quality=4
+reqlevel=200
+resistance1=3985
+buyprice=100000000
+sellprice=9000000
+set=496
+spell=13384 1 0 -1 0 -1
+stackable=1
+
+[item 25332]
+bonus=3 2100
+bonus=4 993
+bonus=7 2400
+class=4
+durability=120
+inventorytype=7
+level=81
+material=6
+model=33713
+name=AFG Conqueror's Legguards
+quality=4
+classes=1
+reqlevel=200
+resistance1=3796
+buyprice=100000000
+sellprice=9000000
+set=496
+spell=13384 1 0 -1 0 -1
+spell=15464 1 0 -1 0 -1
+stackable=1
+subclass=4
+
+[item 25333]
+bonus=3 1200
+bonus=4 1300
+bonus=7 1500
+class=4
+durability=135
+inventorytype=8
+level=78
+material=6
+model=33714
+name=AFG Conqueror's Greaves
+quality=4
+classes=1
+reqlevel=200
+resistance1=3604
+buyprice=100000000
+sellprice=9000000
+set=496
+spell=7517 1 0 -1 0 -1
+stackable=1
+subclass=4
+
+[item 25387]
+bonus=3 900
+bonus=4 900
+bonus=5 900
+bonus=6 900
+bonus=7 2200
+class=4
+durability=100
+inventorytype=1
+level=81
+material=6
+model=33715
+name=AFG Avenger's Crown
+quality=4
+classes=2
+reqlevel=200
+resistance1=3739
+buyprice=100000000
+sellprice=9000000
+set=505
+spell=14047 1 0 -1 0 -1
+spell=7597 1 0 -1 0 -1
+stackable=1
+subclass=4
+
+[item 25388]
+bonus=3 865
+bonus=4 567
+bonus=5 978
+bonus=6 699
+bonus=7 1800
+class=4
+durability=135
+inventorytype=8
+level=78
+material=6
+model=33708
+name=AFG Avenger's Greaves
+quality=4
+classes=2
+reqlevel=200
+resistance1=2604
+buyprice=100000000
+sellprice=9000000
+set=505
+spell=9343 1 0 -1 0 -1
+spell=21362 1 0 -1 0 -1
+stackable=1
+subclass=4
+
+[item 25389]
+bonus=3 1200
+bonus=4 930
+bonus=5 994
+bonus=6 1100
+bonus=7 2400
+class=4
+durability=165
+inventorytype=5
+classes=2
+level=88
+material=6
+model=33705
+name=AFG Avenger's Breastplate
+quality=4
+reqlevel=200
+resistance1=3985
+buyprice=100000000
+sellprice=9000000
+set=505
+spell=9346 1 0 -1 0 -1
+spell=18384 1 0 -1 0 -1
+spell=97597 1 0 -1 0 -1
+stackable=1
+
+[item 25390]
+bonus=3 1200
+bonus=4 1100
+bonus=5 1200
+bonus=6 900
+bonus=7 1200
+class=4
+durability=120
+inventorytype=7
+level=81
+material=6
+model=33706
+name=AFG Avenger's Legguards
+quality=4
+classes=2
+reqlevel=200
+resistance1=2796
+buyprice=100000000
+sellprice=9000000
+set=505
+spell=9345 1 0 -1 0 -1
+spell=7597 1 0 -1 0 -1
+spell=21618 1 0 -1 0 -1
+stackable=1
+subclass=4
+
+[item 25391]
+bonus=3 1400
+bonus=4 1800
+bonus=5 1300
+bonus=6 600
+bonus=7 1500
+class=4
+durability=100
+inventorytype=3
+level=78
+material=6
+model=33707
+name=AFG Avenger's Pauldrons
+quality=4
+classes=2
+reqlevel=200
+resistance1=3659
+buyprice=100000000
+sellprice=9000000
+set=505
+spell=9343 1 0 -1 0 -1
+spell=21625 1 0 -1 0 -1
+stackable=1
+subclass=4
+
+[item 25365]
+bonus=3 991
+bonus=5 899
+bonus=6 699
+bonus=7 1700
+class=4
+durability=70
+inventorytype=8
+level=78
+material=5
+model=33690
+name=AFG Striker's Footguards
+quality=4
+classes=4
+reqlevel=200
+resistance1=3340
+buyprice=100000000
+sellprice=9000000
+set=509
+spell=9396 1 0 -1 0 -1
+stackable=1
+subclass=3
+
+[item 25366]
+bonus=3 1999
+bonus=5 1499
+bonus=6 978
+bonus=7 2600
+class=4
+durability=100
+inventorytype=1
+level=81
+material=5
+model=33717
+name=AFG Striker's Diadem
+quality=4
+classes=4
+reqlevel=200
+resistance1=2416
+buyprice=100000000
+sellprice=9000000
+set=509
+spell=14047 1 0 -1 0 -1
+spell=7597 1 0 -1 0 -1
+stackable=1
+subclass=3
+
+[item 25367]
+bonus=3 1523
+bonus=5 1100
+bonus=6 500
+bonus=7 2400
+class=4
+durability=100
+inventorytype=3
+level=78
+material=5
+model=34025
+name=AFG Striker's Pauldrons
+quality=4
+classes=4
+reqlevel=200
+resistance1=3384
+buyprice=100000000
+sellprice=9000000
+set=509
+spell=9396 1 0 -1 0 -1
+stackable=1
+subclass=3
+
+[item 25368]
+bonus=3 1866
+bonus=5 1400
+bonus=6 1000
+bonus=7 2200
+class=4
+durability=105
+inventorytype=7
+level=81
+material=5
+model=33700
+name=AFG Striker's Leggings
+quality=4
+classes=4
+reqlevel=200
+resistance1=3448
+buyprice=100000000
+sellprice=9000000
+set=509
+spell=7597 1 0 -1 0 -1
+spell=9415 1 0 -1 0 -1
+stackable=1
+subclass=3
+
+[item 25370]
+bonus=3 900
+bonus=5 1500
+bonus=6 700
+bonus=7 2500
+class=4
+durability=140
+inventorytype=5
+classes=2
+level=88
+material=6
+model=33691
+name=AFG Striker's Hauberk
+quality=4
+reqlevel=200
+resistance1=2553
+buyprice=100000000
+sellprice=9000000
+set=509
+spell=7597 1 0 -1 0 -1
+spell=19415 1 0 -1 0 -1
+stackable=1
+subclass=3
+
+[item 25353]
+bonus=3 999
+bouns=4 898
+bonus=5 878
+bonus=6 882
+bonus=7 999
+class=4
+durability=70
+inventorytype=1
+level=81
+material=8
+model=34350
+name=AFG Genesis Helm
+quality=4
+classes=1024
+reqlevel=200
+resistance1=3192
+buyprice=100000000
+sellprice=9000000
+set=493
+spell=14054 1 0 -1 0 -1
+spell=7597 1 0 -1 0 -1
+stackable=1
+subclass=2
+
+[item 25354]
+bonus=3 1400
+bouns=4 1500
+bonus=5 1300
+bonus=6 600
+bonus=7 1500
+class=4
+durability=70
+inventorytype=3
+level=78
+material=8
+model=34037
+name=AFG Genesis Shoulderpads
+quality=4
+classes=1024
+reqlevel=200
+resistance1=3172
+buyprice=100000000
+sellprice=9000000
+set=493
+spell=14799 1 0 -1 0 -1
+spell=21625 1 0 -1 0 -1
+stackable=1
+subclass=2
+
+[item 25355]
+bouns=4 1400
+bonus=3 1300
+bonus=5 1400
+bonus=6 600
+bonus=7 1400
+class=4
+durability=60
+inventorytype=8
+level=78
+material=8
+model=33661
+name=AFG Genesis Boots
+quality=4
+classes=1024
+reqlevel=200
+resistance1=3758
+buyprice=100000000
+sellprice=9000000
+set=493
+spell=14799 1 0 -1 0 -1
+spell=21362 1 0 -1 0 -1
+spell=25975 1 0 -1 0 -1
+stackable=1
+subclass=2
+
+[item 25356]
+bonus=3 999
+bouns=4 987
+bonus=5 789
+bonus=6 988
+bonus=7 2200
+class=4
+durability=90
+inventorytype=7
+level=81
+material=8
+model=33662
+name=AFG Genesis Trousers
+quality=4
+classes=1024
+reqlevel=200
+resistance1=207
+buyprice=100000000
+sellprice=9000000
+set=493
+spell=7597 1 0 -1 0 -1
+spell=14054 1 0 -1 0 -1
+spell=21618 1 0 -1 0 -1
+stackable=1
+subclass=2
+
+[item 25357]
+bonus=3 1200
+bonus=4 1300
+bonus=5 2400
+bonus=6 1100
+bonus=7 2400
+class=4
+durability=120
+inventorytype=5
+classes=1024
+level=88
+material=8
+model=34086
+name=AFG Genesis Vest
+quality=4
+reqlevel=200
+resistance1=4253
+buyprice=100000000
+sellprice=9000000
+set=493
+spell=7597 1 0 -1 0 -1
+spell=14127 1 0 -1 0 -1
+spell=18384 1 0 -1 0 -1
+stackable=1
+subclass=2
+
+[item 25343]
+bonus=5 113
+bonus=6 798
+bonus=7 1900
+class=4
+durability=100
+inventorytype=5
+classes=128
+level=88
+material=7
+model=34064
+name=AFG Enigma Robes
+quality=4
+reqlevel=200
+resistance1=3133
+buyprice=100000000
+sellprice=9000000
+set=503
+spell=18055 1 0 -1 0 -1
+spell=26283 1 0 -1 0 -1
+spell=18384 1 0 -1 0 -1
+stackable=1
+subclass=1
+
+[item 25344]
+bonus=5 1500
+bonus=6 600
+bonus=7 1500
+class=4
+durability=50
+inventorytype=8
+level=81
+material=7
+model=33641
+name=AFG Enigma Boots
+quality=4
+classes=128
+reqlevel=200
+resistance1=3382
+buyprice=100000000
+sellprice=9000000
+set=503
+spell=14127 1 0 -1 0 -1
+spell=23727 1 0 -1 0 -1
+spell=21362 1 0 -1 0 -1
+stackable=1
+subclass=1
+
+[item 25345]
+bonus=5 1200
+bonus=6 400
+bonus=7 1600
+class=4
+durability=60
+inventorytype=3
+level=78
+material=7
+model=34020
+name=AFG Enigma Shoulderpads
+quality=4
+classes=128
+reqlevel=200
+resistance1=3389
+buyprice=100000000
+sellprice=9000000
+set=503
+spell=14798 1 0 -1 0 -1
+spell=21362 1 0 -1 0 -1
+spell=25975 1 0 -1 0 -1
+stackable=1
+subclass=1
+
+[item 25346]
+bonus=5 1600
+bonus=6 800
+bonus=7 2100
+class=4
+durability=75
+inventorytype=7
+level=81
+material=7
+model=33643
+name=AFG Enigma Leggings
+quality=4
+classes=128
+reqlevel=200
+resistance1=3107
+buyprice=100000000
+sellprice=9000000
+set=503
+spell=18052 1 0 -1 0 -1
+spell=18384 1 0 -1 0 -1
+spell=21620 1 0 -1 0 -1
+stackable=1
+subclass=1
+
+[item 25347]
+bonus=5 999
+bonus=6 999
+bonus=7 1222
+class=4
+durability=65
+inventorytype=1
+level=78
+material=7
+model=34370
+name=AFG Enigma Circlet
+quality=4
+classes=128
+reqlevel=200
+resistance1=3100
+buyprice=100000000
+sellprice=9000000
+set=503
+spell=18050 1 0 -1 0 -1
+spell=18384 1 0 -1 0 -1
+spell=23727 1 0 -1 0 -1
+stackable=1
+subclass=1
+
+[item 25334]
+bonus=5 1400
+bonus=6 799
+bonus=7 1900
+class=4
+durability=100
+inventorytype=5
+subclass=1
+classes=256
+level=88
+material=7
+model=34061
+name=AFG Doomcaller's Robes
+quality=4
+reqlevel=200
+resistance1=3253
+buyprice=100000000
+sellprice=9000000
+set=499
+spell=18057 1 0 -1 0 -1
+spell=26283 1 0 -1 0 -1
+spell=18384 1 0 -1 0 -1
+stackable=1
+
+[item 25335]
+bonus=5 1100
+bonus=6 499
+bonus=7 2099
+class=4
+durability=60
+inventorytype=3
+level=78
+material=7
+model=34018
+name=AFG Doomcaller's Mantle
+quality=4
+classes=256
+reqlevel=200
+resistance1=3389
+buyprice=100000000
+sellprice=9000000
+set=499
+spell=14127 1 0 -1 0 -1
+spell=25975 1 0 -1 0 -1
+spell=23727 1 0 -1 0 -1
+stackable=1
+subclass=1
+
+[item 25336]
+bonus=5 994
+bonus=6 999
+bonus=7 998
+class=4
+durability=75
+inventorytype=7
+level=81
+material=7
+model=33618
+name=AFG Doomcaller's Trousers
+quality=4
+classes=256
+reqlevel=200
+resistance1=3107
+buyprice=100000000
+sellprice=9000000
+set=499
+spell=18052 1 0 -1 0 -1
+spell=18384 1 0 -1 0 -1
+stackable=1
+subclass=1
+
+[item 25337]
+bonus=5 877
+bonus=6 688
+bonus=7 1888
+class=4
+durability=60
+inventorytype=1
+level=81
+material=7
+model=34351
+name=AFG Doomcaller's Circlet
+quality=4
+classes=256
+reqlevel=200
+resistance1=3100
+buyprice=100000000
+sellprice=9000000
+set=499
+spell=18050 1 0 -1 0 -1
+spell=18384 1 0 -1 0 -1
+spell=23727 1 0 -1 0 -1
+stackable=1
+subclass=1
+
+[item 25338]
+bonus=5 1600
+bonus=6 1400
+bonus=7 1500
+class=4
+durability=50
+inventorytype=8
+level=78
+material=7
+model=33625
+name=AFG Doomcaller's Footwraps
+quality=4
+classes=256
+reqlevel=200
+resistance1=4282
+buyprice=100000000
+sellprice=9000000
+set=499
+spell=14127 1 0 -1 0 -1
+spell=25975 1 0 -1 0 -1
+stackable=1
+subclass=1
+
+[item 25372]
+bonus=3 800
+bonus=4 1200
+bonus=5 882
+bonus=6 898
+bonus=7 987
+class=4
+durability=85
+inventorytype=1
+level=81
+material=7
+model=34090
+name=AFG Stormcaller's Diadem
+quality=4
+classes=64
+reqlevel=200
+resistance1=3416
+buyprice=100000000
+sellprice=9000000
+set=501
+spell=18050 1 0 -1 0 -1
+spell=18384 1 0 -1 0 -1
+spell=23727 1 0 -1 0 -1
+stackable=1
+subclass=3
+
+[item 25373]
+bonus=3 999
+bonus=4 1299
+bonus=5 1400
+bonus=6 600
+bonus=7 1400
+class=4
+durability=70
+inventorytype=8
+level=78
+material=7
+model=33696
+name=AFG Stormcaller's Footguards
+quality=4
+classes=64
+reqlevel=200
+resistance1=3340
+buyprice=100000000
+sellprice=9000000
+set=501
+spell=14127 1 0 -1 0 -1
+spell=25975 1 0 -1 0 -1
+stackable=1
+subclass=3
+
+
+[item 25374]
+bonus=3 1000
+bonus=4 1100
+bonus=5 1400
+bonus=6 1100
+bonus=7 1400
+class=4
+durability=140
+inventorytype=5
+subclass=1
+classes=64
+level=88
+material=7
+model=33697
+name=AFG Stormcaller's Hauberk
+quality=4
+reqlevel=200
+resistance1=3553
+buyprice=100000000
+sellprice=9000000
+set=501
+spell=17367 1 0 -1 0 -1
+spell=7597 1 0 -1 0 -1
+spell=18384 1 0 -1 0 -1
+stackable=1
+subclass=3
+
+[item 25375]
+bonding=1
+bonus=3 999
+bonus=4 999
+bonus=5 1223
+bonus=6 1222
+bonus=7 1909
+class=4
+durability=105
+inventorytype=7
+level=81
+material=7
+model=33701
+name=AFG Stormcaller's Leggings
+quality=4
+classes=64
+reqlevel=200
+resistance1=3448
+buyprice=100000000
+sellprice=9000000
+set=501
+spell=18052 1 0 -1 0 -1
+spell=18384 1 0 -1 0 -1
+stackable=1
+subclass=3
+
+[item 25376]
+bonus=3 1000
+bonus=4 1000
+bonus=5 1300
+bonus=6 600
+bonus=7 1500
+class=4
+durability=60
+inventorytype=3
+level=78
+material=7
+model=34056
+name=AFG Stormcaller's Pauldrons
+quality=4
+classes=64
+reqlevel=200
+resistance1=3371
+buyprice=100000000
+sellprice=9000000
+set=501
+spell=14127 1 0 -1 0 -1
+spell=21625 1 0 -1 0 -1
+stackable=1
+subclass=3
+
+//Jackpot Lottery Items start at 25376
+
+
+[item 25377]
+name=1 Gold!
+class=12
+buyprice=10000
+sellprice=10000
+stackable=0
+model=11766
+classes=07FFF
+races=01FF
+reqmaterial=0
+stackable=0
+
+[item 25378]
+name=100 Gold!
+class=12
+buyprice=1000000
+sellprice=1000000
+stackable=0
+model=11766
+classes=07FFF
+races=01FF
+reqmaterial=0
+stackable=0
+
+[item 25379]
+name=1000 Gold!
+class=12
+buyprice=10000000
+sellprice=10000000
+stackable=0
+model=11766
+classes=07FFF
+races=01FF
+reqmaterial=0
+stackable=0
+
+[item 25380]
+name=JACKPOT!
+description=Conradulations. You have just won the 100,000g jackpot.
+class=12
+buyprice=1000000000
+sellprice=1000000000
+stackable=0
+model=11766
+classes=07FFF
+races=01FF
+reqmaterial=0
+stackable=0
+
+[item 25381]
+name=1 Gold LuckyDip
+description=Win upto 10 times your paid price.(Leave vendor to open)
+class=15
+quality=1
+buyprice=10000
+sellprice=1
+classes=0000 //All Classes
+model=20342
+level=1
+races=0000 //All Races
+stackable=1
+material=-1
+flags=4
+loot=25377 25.5
+loot=25377 25.5
+loot=25377 25.5
+loot=25377 25.5
+loot=25377 25.5
+loot=25377 25.5
+loot=25377 25.5
+loot=25377 25.5
+loot=25377 25.5
+loot=25377 25.5
+loot=25380 0.01
+loot=803088 0.1 //Blood of Khanbaba
+
+[item 25382]
+name=100 Gold LuckyDip
+description=Win upto 10 times your paid price.(Leave vendor to open)
+class=15
+quality=1
+buyprice=1000000
+sellprice=1
+classes=0000 //All Classes
+model=20342
+level=1
+races=0000 //All Races
+stackable=1
+material=-1
+flags=4
+loot=25378 15.01
+loot=25378 15.01
+loot=25378 15.01
+loot=25378 15.01
+loot=25378 15.01
+loot=25378 15.01
+loot=25378 15.01
+loot=25378 15.01
+loot=25378 15.01
+loot=25380 0.01
+loot=803088 0.1 //Blood of Khanbaba
+
+[item 25383]
+name=1000 Gold LuckyDip
+description=Win upto 10 times your paid price.(Leave vendor to open)
+class=15
+quality=1
+buyprice=10000000
+sellprice=1
+classes=0000 //All Classes
+model=20342
+level=1
+races=0000 //All Races
+stackable=1
+material=-1
+flags=4
+loot=25379 10.01
+loot=25379 10.01
+loot=25379 10.01
+loot=25379 10.01
+loot=25379 10.01
+loot=25379 10.01
+loot=25379 10.01
+loot=25379 10.01
+loot=25379 10.01
+loot=25380 0.01
+loot=803088 0.5 //Blood of Khanbaba
+
+//New Scrax Items Modified By Khanbaba
+
+[item 25384]
+name=Ice Axe
+stackable=1
+sheath=3
+class=2
+model=31611
+classes=07FFF
+races=01FF
+quality=6
+buyprice=700000000
+sellprice=700000000
+inventorytype=13
+reqlevel=250
+level=150
+material=1
+delay=1300
+durability=250
+damage=15000 25800 0
+stackable=1
+maxcount=1
+spell=23730 1 0 -1 0 -1
+spell=18212 2 0 -1 0 -1
+bonus=1 1500
+bonus=3 2400
+bonus=4 2600
+bonus=5 1900
+bonus=6 2200
+bonus=7 5800
+resistance1=750
+description=This Axe insights frost-bite.
+
+[item 25385]
+name=Frostmourne
+description=This blade once belonged to Arthus.
+class=2
+subclass=7
+inventorytype=13
+reqlevel=250
+quality=6
+delay=1300
+damage=18800 25000 0
+buyprice=700000000
+sellprice=700000000
+stackable=1
+model=23274
+classes=07FFF
+races=01FF
+level=150
+language=1
+material=1
+sheath=3
+durability=250
+spell=23730 1 0 -1 0 -1
+spell=18212 2 0 -1 0 -1
+bonus=1 2500
+bonus=3 1400
+bonus=4 1600
+bonus=5 2900
+bonus=6 2200
+bonus=7 4400
+
+[item 25386]
+name=Burning Blazer
+description=This blade symbolizes destruction.
+class=2
+subclass=7
+inventorytype=13
+reqlevel=250
+quality=6
+delay=1300
+damage=18800 25000 0
+buyprice=700000000
+sellprice=700000000
+stackable=1
+model=32443
+classes=07FFF
+races=01FF
+level=150
+language=1
+material=1
+sheath=3
+durability=250
+spell=23730 1 0 -1 0 -1
+spell=18212 2 0 -1 0 -1
+bonus=4 2600
+bonus=5 1900
+bonus=6 1200
+bonus=7 5400
+
+[item 25387]
+name=Scrax's Dark Blade
+description=This Blade is enchanted with Darkness.
+class=2
+subclass=8
+inventorytype=17
+reqlevel=250
+quality=6
+delay=2000
+damage=28200 38400 0
+buyprice=700000000
+sellprice=700000000
+stackable=1
+model=33882
+classes=07FFF
+races=01FF
+level=180
+language=1
+material=1
+sheath=1
+durability=250
+spell=23730 1 0 -1 0 -1
+spell=18212 2 0 -1 0 -1
+bonus=3 2300
+bonus=4 3000
+bonus=6 2200
+bonus=7 3800
+resistance1=1000
+
+[item 25388]
+name=Enlightened Ashbringer
+class=2
+subclass=8
+inventorytype=17
+reqlevel=250
+quality=6
+delay=2000
+damage=28200 38400 0
+buyprice=700000000
+sellprice=700000000
+classes=07FF
+durability=225
+level=180
+material=1
+maxcount=1
+model=30606
+races=0FF
+sheath=1
+stackable=1
+spell=23730 1 0 -1 0 -1
+spell=18212 2 0 -1 0 -1
+bonus=4 1900
+bonus=5 3100
+bonus=6 2200
+bonus=7 3800
+description=This blade is a modified Ashbringer.
+
+[item 25389]
+name=Ninjistic Blade
+description=This blade resembles a katana
+class=2
+subclass=7
+inventorytype=13
+reqlevel=250
+quality=6
+delay=1500
+damage=18200 28400 0
+buyprice=900000000
+sellprice=900000000
+classes=07FF
+durability=225
+level=190
+material=1
+maxcount=1
+model=30886
+races=0FF
+sheath=1
+stackable=1
+spell=23730 1 0 -1 0 -1
+spell=18212 2 0 -1 0 -1
+bonus=3 2544
+bonus=4 3534
+bonus=5 3443
+bonus=6 2200
+bonus=7 4900
+resistance1=750
+
+[item 25390]
+name=Ice Blade
+description=This blade is enchanted with liquid nitrogen.
+class=2
+subclass=7
+inventorytype=13
+reqlevel=250
+quality=6
+delay=1500
+damage=17450 26650 0
+buyprice=900000000
+sellprice=900000000
+classes=07FF
+durability=225
+level=130
+material=1
+maxcount=1
+model=23836
+races=0FF
+sheath=1
+stackable=1
+spell=23730 1 0 -1 0 -1
+spell=18212 2 0 -1 0 -1
+bonus=3 3000
+bonus=4 3000
+bonus=5 1300
+bonus=6 2200
+bonus=7 4500
+resistance1=750
+
+[item 25391]
+name=Burning Blade
+description=This blade is enchanted with Fire.
+class=2
+subclass=7
+inventorytype=13
+reqlevel=250
+quality=6
+delay=1500
+damage=14450 23450 0
+buyprice=700000000
+sellprice=700000000
+stackable=1
+model=19997
+classes=07FFF
+races=01FF
+level=130
+language=1
+material=1
+sheath=3
+durability=250
+spell=23730 1 0 -1 0 -1
+spell=18212 2 0 -1 0 -1
+bonus=1 15
+bonus=3 24
+bonus=4 26
+bonus=5 19
+bonus=6 22
+bonus=7 18
+resistance1=750
+
+[item 56004]
+name=AFGWarriorz Welcome Note
+class=12
+reqlevel=1
+quality=1
+stackable=1
+model=3022
+classes=07FF
+races=0FF
+bonding=1
+stackable=1
+pagetext=40001
+maxcount=1
+
+[item 25392]
+name=Scrax's War-Sword
+description=Scrax's trusty blade.
+class=2
+subclass=7
+inventorytype=13
+reqlevel=250
+quality=6
+delay=1500
+damage=18800 29000 0
+buyprice=900000000
+sellprice=900000000
+stackable=1
+model=32581
+classes=07FFF
+races=01FF
+level=150
+language=1
+material=1
+sheath=3
+durability=250
+spell=23730 1 0 -1 0 -1
+spell=18212 2 0 -1 0 -1
+bonus=1 1500
+bonus=3 2400
+bonus=4 2600
+bonus=5 2900
+bonus=6 3200
+bonus=7 4800
+resistance1=750
+
+[item 25393]
+name=Assasins Dagger
+description=a silent sleak dagger.
+class=2
+subclass=15
+inventorytype=13
+reqlevel=250
+quality=6
+delay=1300
+damage=16250 25350 0
+buyprice=700000000
+sellprice=700000000
+model=31606
+classes=07FFF
+races=01FF
+level=150
+maxcount=1
+stackable=1
+material=1
+sheath=3
+durability=165
+spell=23730 1 0 -1 0 -1
+spell=18212 2 0 -1 0 -1
+bonus=3 2422
+bonus=4 3600
+bonus=5 3900
+bonus=6 1200
+bonus=7 4800
+
+[item 25394]
+name=Flame's Hammer
+class=2
+subclass=5
+inventorytype=17
+reqlevel=250
+quality=6
+delay=2300
+damage=29950 39900 0
+buyprice=900000000
+sellprice=900000000
+sellprice=0
+classes=07FFF
+durability=545
+level=160
+material=1
+model=29698
+sheath=1
+stackable=1
+maxcount=1
+spell=21162 2 0 -1 0 -1
+spell=21142 1 0 -1 0 -1
+bonus=3 2400
+bonus=5 3300
+bonus=6 3200
+bonus=7 4800
+resistance1=750
+description=This hammer was forged from flames.
+
+[item 25395] 
+name=FPS Area 
+questscript=fps
+startquest=90002 
+bonding=3 
+class=15 
+description=This will Teleport you  to Deadly Zone, where one hit dead, you need Gun or Bow to kill these vacious monsters
+classes=07FFF 
+flags=64 
+level=1
+material=-1 
+buyprice=100000000
+maxcount=1 
+model=6418 
+quality=1 
+races=01FF 
+stackable=1 
+
+[item 25396]
+name=FPS Area Teleport
+description=Open this to get teleport stone to FPS Extreme Challenge Area
+class=15
+quality=1
+buyprice=100000000
+sellprice=1
+classes=0000 //All Classes
+model=20342
+level=1
+races=0000 //All Races
+stackable=1
+material=-1
+flags=4
+loot=25395 100.0
+reqlevel=200
+
+[item 25397]
+name=Warning Artifacts Weapons Cannot Be Repaired
+description=Sell Artifacts Items to Vendor When It Reach 10% of Durability
+class=15
+quality=6
+buyprice=1
+sellprice=1
+classes=0000 //All Classes
+model=20342
+level=1
+races=0000 //All Races
+stackable=1
+material=-1
+flags=4
+
+[item 25398]
+name=Special Area Gift
+description=This pack contain teleport stone, guns, bullet for huting in extreme challenge area
+class=15
+quality=1
+buyprice=10000000
+sellprice=1
+classes=0000 //All Classes
+model=20342
+level=1
+races=0000 //All Races
+stackable=1
+material=-1
+flags=4
+loot=35620 100 //high lord gun
+loot=25395 100 //Teleport stone
+loot=803088 100 //Blood of Khanbaba
+
+///////////////////////////////////////////
+//AFG Repack V3 Made By Khanbaba & VikinG//
+///////////////////////////////////////////
