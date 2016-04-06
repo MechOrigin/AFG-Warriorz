@@ -1,0 +1,53 @@
+# StartTCL: n
+#
+# ====================================
+#
+# Autoshot script v1.0 by seatlleson
+#
+# ====================================
+#
+# Modified by Delfin
+# Modified By Khanbaba and Fixed now it is working
+# You will see to hits actually it is one so dont worry
+# Start-TCL 0.9.2 compatible
+#
+#
+
+namespace eval ::AutoShot { 
+
+	proc ::AutoShot::Bow { to from } {
+		global autoshotarray
+		global autoshottime
+		global autoshotpos
+		global autoshottarget
+	
+		set autoshottime($from) [ clock second ]
+		set autoshotarray($from) 75
+		set autoshotpos($from) [ ::GetPos $from ]
+		set autoshottarget($from) $to
+	}
+
+	proc ::AutoShot::Wand { to from } { 
+		global autoshotarray
+		global autoshottime
+		global autoshotpos
+		global autoshottarget
+	
+		set autoshottime($from) [ clock second ] 
+		set autoshotarray($from) 5019
+		set autoshotpos($from) [ ::GetPos $from ]
+		set autoshottarget($from) $to
+	}
+}
+
+
+trace add execution ::GetQFlag leave "::WoWEmu::autoshothandler"
+
+# Fixed By Khanbaba
+# Add this to Spell effect scrtips to fix it now it is fixed so dont need
+proc SPELL_EFFECT_SCRIPT_EFFECT { to from spellid } {
+switch $spellid {
+ 75 { AutoShot::Bow $to $from } 
+ 5019 { AutoShot::Wand $to $from } 
+}
+}
