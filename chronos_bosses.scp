@@ -1,0 +1,345 @@
+
+//////////////////
+//chronos bosses//
+//////////////////
+
+///////////////////
+//Ultimate Onyxia//
+///////////////////
+
+[creature 85000]
+name=Ultimate Onyxia
+aiscript=Onyxia2
+attack=1500 1800
+bounding_radius=0.6
+combat_reach=5
+damage=22000 42800
+elite=3
+faction=73
+level=500
+loottemplate=85000
+maxhealth=6000000
+maxmana=805800
+model=8570
+money=9000000
+resist=#SPELL_SCHOOL_FIRE 100
+size=2
+speed=1.5
+type=2
+
+/////////////////////
+//Ultimate Azuregos//
+/////////////////////
+
+[creature 85001]
+name=Ultimate Azuregos
+aiscript=ai_Azuregos
+attack=1480 1700
+bounding_radius=0.6
+combat_reach=5
+damage=22000 42800
+elite=3
+faction=73
+level=500
+loottemplate=85001
+maxhealth=6000000
+maxmana=75693
+model=11460
+money=9000000
+size=2.0
+speed=1.68
+type=2
+
+//////////////////////
+//Ultimate Razorgore//
+//////////////////////
+
+[creature 85002]
+name=Ultimate Razorgore
+attack=1450 1600
+bounding_radius=0.6
+combat_reach=5
+damage=22000 42800
+elite=3
+faction=73
+level=500
+loottemplate=85002
+maxhealth=6000000
+maxmana=37540
+model=12649
+money=9000000
+size=3.0
+speed=4.23
+type=2
+
+///////////////////////
+//Ultimate Chromaggus//
+///////////////////////
+
+[creature 85003]
+name=Ultimate Chromaggus
+aiscript=ai_Chromaggus
+attack=1500 1750
+bounding_radius=0.6
+combat_reach=5
+damage=22000 42800
+elite=3
+faction=73
+level=500
+loottemplate=85003
+maxhealth=6000000
+maxmana=92500
+model=14367
+money=9000000
+resist=#SPELL_SCHOOL_SHADOW 80
+size=3.0
+speed=1.18
+type=2
+
+/////////////////////
+//Ultimate Nefarian//
+/////////////////////
+
+[creature 85004]
+name=Ultimate Nefarian
+aiscript=Nefarian
+flags1=080000000
+guild=The Head of The Black Flight
+attack=1020 1480
+bounding_radius=0.6
+combat_reach=5
+damage=22000 42800
+elite=3
+faction=73
+level=500
+loottemplate=85004
+maxhealth=6000000
+maxmana=19357
+model=11380
+money=9000000
+size=2
+speed=3.90
+spell=20712 20228 20712 18432 18431
+type=2
+
+/////////////////////
+//Ultimate Ragnaros//
+/////////////////////
+
+[creature 85005]
+name=Ultimate Ragnaros
+aiscript=ai_Ragnaros
+attack=16000 18800
+bounding_radius=0.6
+combat_reach=5
+damage=22000 42800
+elite=3
+faction=73
+level=500
+loottemplate=85005
+maxhealth=6000000
+maxmana=80992
+model=11121
+money=9000000
+resist=#SPELL_SCHOOL_FIRE 100
+type=4
+
+/////////////////////
+//Ultimate Golemagg//
+/////////////////////
+
+[creature 85006]
+name=Ultimate Golemagg
+aiscript=GolemaggIncinerator
+attack=16000 20000
+bounding_radius=0.6
+combat_reach=5
+damage=22000 42800
+elite=3
+faction=73
+level=500
+loottemplate=85006
+maxhealth=6000000
+maxmana=32000
+model=11986
+money=9000000
+size=3.0
+type=5
+
+/////////////////////
+//Ultimate Nefarius//
+/////////////////////
+
+[creature 85007]
+name=Ultimate Nefarius
+attack=500 700
+bounding_radius=7.0
+combat_reach=11.0
+damage=22000 42800
+elite=3
+faction=73
+family=23
+equipmodel=0 21552 2 10 2 17 2 0 0 0
+level=500
+loottemplate=85007
+maxhealth=6000000
+maxmana=113480
+model=9472
+money=9000000
+size=1.5
+speed=1.09
+type=3
+
+//Snurresprett-RARE//
+
+[creature 85008]
+name=Snurresprett
+faction=40
+level=63
+attack=200 400
+bounding_radius=1.0
+combat_reach=1.0
+damage=2200 4280
+family=23
+maxhealth=3000
+model=328
+speed=1.00
+type=3
+size=5.0
+money=1000000
+
+//Tobby The Bear-RARE//
+
+[creature 85009]
+name=Tobby The Bear
+faction=16
+level=16
+attack=1860 2046
+bounding_radius=0.561
+combat_reach=1.5
+damage=15 22
+loottemplate=10158
+maxhealth=20000
+model=5927
+speed=0.99
+type=1
+money=1000000
+
+[creature 85010]
+name=Leader Goar
+attack=500 700
+bounding_radius=7.0
+combat_reach=11.0
+damage=3000 6000
+elite=3
+faction=7
+family=23
+equipmodel=0 21552 2 10 2 17 2 0 0 0
+level=500
+maxhealth=200000
+maxmana=113480
+model=9778
+money=9000000
+size=2.5
+speed=1.09
+type=3
+
+[creature 85011]
+name=Easter Bunny
+attack=11000 48000
+bounding_radius=0.6
+combat_reach=5
+damage=28000 48500
+elite=3
+faction=73
+level=500
+loottemplate=85008
+maxhealth=60000000
+model=328
+size=8
+type=4
+
+[creature 85012]
+name=Inizir Graystrike
+flags1=010000
+elite=3
+faction=14
+level=500
+attack=11000 13000
+bounding_radius=1
+combat_reach=1.5
+damage=22000 42800
+loottemplate=85004
+maxhealth=10000000
+maxmana=5000000
+model=7919
+resist=#SPELL_SCHOOL_FROST 600
+resist=#SPELL_SCHOOL_SHADOW 500
+speed=1.5
+spell=11664 18753 11724 11670 11672 10897 17928 11735
+type=6
+money=3000000
+
+
+[creature 85013]
+name=Maleki
+guild=Necromancer of Inizir Graystrike
+flags1=081000
+elite=3
+faction=14
+level=490..500
+attack=21000 41800
+bounding_radius=0.561
+combat_reach=1.5
+equipmodel=0 23539 2 10 2 17 2 0 0 0
+loottemplate=85003
+maxhealth=8000000
+maxmana=3000000
+resist=#SPELL_SCHOOL_SHADOW 500
+spell=11664 18753 11724 11670 11672 10897 11686 11680 11735
+model=10546
+speed=1.5
+type=7
+money=500000
+
+
+[creature 85014]
+name=Scourge Footsoldier
+guild=Inizir Graystrike's Minion
+faction=21
+level=480..490
+attack=18000 28000
+bounding_radius=0.51
+combat_reach=1.5
+maxhealth=5000000
+resist=#SPELL_SCHOOL_SHADOW 500
+model=262
+spell=11735
+speed=1.25
+type=6
+money=400000
+
+
+[creature 85015]
+name=Scourge Bloodmage
+guild=Inizir Graystike's Minion
+elite=1
+faction=21
+level=470..495
+attack=18000 28000
+bounding_radius=0.13
+combat_reach=1.5
+equipmodel=0 1927 2 10 2 17 2 0 0 0
+maxhealth=4900000
+maxmana=250000
+resist=#SPELL_SCHOOL_SHADOW 500
+model=11396
+size=1.3
+spell=11735 11716 17924 6216 11659
+speed=1.5
+type=6
+money=350000
+
+/////////////////////////////////////
+//Chronos Bosses Scripted By VIkinG//
+/////////////////////////////////////
